@@ -19,8 +19,22 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Portofoliu Viziteu Mihai</title>
-        <meta name="description" content="Portofoliu Viziteu Mihai" />
+        <title>Viziteu Mihai | Software Developer</title>
+        <meta name="title" content="Viziteu Mihai | Software Developer" />
+        <meta name="description" content="Accounting and Management Information Systems student, Computer Science enthusiast. " />
+
+        <meta property="og:type" content="website" />
+        <meta property="og:url" content="https://www.viziteumihai.ro/" />
+        <meta property="og:title" content="Viziteu Mihai | Software Developer" />
+        <meta property="og:description" content="Accounting and Management Information Systems student, Computer Science enthusiast. " />
+        <meta property="og:image" content="https://metatags.io/images/meta-tags.png" />
+
+        <meta property="twitter:card" content="summary_large_image" />
+        <meta property="twitter:url" content="https://www.viziteumihai.ro/" />
+        <meta property="twitter:title" content="Viziteu Mihai | Software Developer" />
+        <meta property="twitter:description" content="Accounting and Management Information Systems student, Computer Science enthusiast. " />
+        <meta property="twitter:image" content="https://metatags.io/images/meta-tags.png" />
+
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <Navbar />
@@ -38,8 +52,8 @@ export default function Home() {
                 height={200}
                 className="rounded-full bg-orange-500 mx-auto"
               />
-              <h1 className="text-4xl font-bold">Nume Prenume</h1>
-              <h2 className="text-3xl font-normal">Title</h2>
+              <h1 className="text-4xl font-bold">Viziteu Mihai</h1>
+              <h2 className="text-3xl font-normal">Software Developer</h2>
               <h2 className="text-2xl font-normal">Accounting and Management Information Systems student, Computer Science enthusiast.</h2>
               <ContactButtons />
             </Panel>
@@ -48,13 +62,24 @@ export default function Home() {
             <Panel>
               <h1 className="text-4xl font-bold">About me</h1>
               <p className="text-2xl font-normal">
-              Menestrel trist, mai aburit ca vinul vechi ciocnit la nuntă, de cuscrul mare dăruit cu pungi, panglici, beteli cu funtă.
+                Menestrel trist, mai aburit ca vinul vechi ciocnit la nuntă, de cuscrul mare dăruit cu pungi, panglici, beteli cu funtă.
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sint quas, distinctio inventore.
               </p>
             </Panel>
           }
           bottom={
             <Panel>
               <h1 className="text-4xl font-bold">Skills</h1>
+              <div className="grid grid-cols-3 gap-x-8">
+                <div className="flex justify-between align-bottom">
+                        <div>Romanian</div>
+                        <div>Native</div>
+                </div>
+                <div className="flex justify-between align-bottom">
+                        <div>English</div>
+                        <div>B2</div>
+                </div>
+              </div>
               <Skills />
             </Panel>
           }
@@ -71,9 +96,9 @@ export default function Home() {
           {/* <p className="text-gray-700 mb-3">Lorem ipsum</p> */}
           <Awards />
         </Panel>
-        
+
         {/* <Panel className='mt-4 mb-16'> */}
-          <Projects />
+        <Projects />
         {/* </Panel> */}
       </div>
     </>
