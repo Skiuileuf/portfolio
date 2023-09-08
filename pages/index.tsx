@@ -27,13 +27,13 @@ export default function Home() {
         <meta property="og:url" content="https://www.viziteumihai.ro/" />
         <meta property="og:title" content="Viziteu Mihai | Software Developer" />
         <meta property="og:description" content="Accounting and Management Information Systems student, Computer Science enthusiast. " />
-        <meta property="og:image" content="https://metatags.io/images/meta-tags.png" />
+        <meta property="og:image" content="https://www.viziteumihai.ro/images/garfield1.jpg" />
 
         <meta property="twitter:card" content="summary_large_image" />
         <meta property="twitter:url" content="https://www.viziteumihai.ro/" />
         <meta property="twitter:title" content="Viziteu Mihai | Software Developer" />
         <meta property="twitter:description" content="Accounting and Management Information Systems student, Computer Science enthusiast. " />
-        <meta property="twitter:image" content="https://metatags.io/images/meta-tags.png" />
+        <meta property="twitter:image" content="https://www.viziteumihai.ro/images/garfield1.jpg" />
 
         <link rel="icon" href="/favicon.ico" />
       </Head>
