@@ -73,11 +73,11 @@ export default function Home() {
               <div className="grid grid-cols-3 gap-x-8">
                 <div className="flex justify-between align-bottom">
                         <div>Romanian</div>
-                        <div>Native</div>
+                        <div className='bg-gray-800 text-gray-100 rounded-full px-2'>Native</div>
                 </div>
                 <div className="flex justify-between align-bottom">
                         <div>English</div>
-                        <div>B2</div>
+                        <div className='bg-gray-800 text-gray-100 rounded-full px-2'>B2</div>
                 </div>
               </div>
               <Skills />

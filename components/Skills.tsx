@@ -28,8 +28,9 @@ function Stars({ count }: { count?: number }) {
                 <div key={index} className={`hidden md:block lg:hidden xl:block w-4 h-4 translate-y-1 rounded-full ${index < count! ? 'bg-gray-800' : 'bg-gray-400'}`}></div>
             ))}
             <span className="block md:hidden lg:block xl:hidden">
-                {count}
-                <div className={`align-top inline-block ml-2 w-4 h-4 translate-y-1 rounded-full bg-gray-800`}></div>
+                <div className='bg-gray-800 text-gray-100 rounded-full px-2'>{count}</div>
+                {/* <span className="">{count}</span> */}
+                {/* <div className={`align-top inline-block ml-2 w-4 h-4 translate-y-1 rounded-full bg-gray-800`}></div> */}
             </span>
         </div>
     )

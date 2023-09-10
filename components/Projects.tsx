@@ -48,7 +48,7 @@ const CurrentProjects: ProjectProps[] = [
 
 export default function Projects() {
     return (
-        <div className="grid grid-cols-3 gap-4 mb-8" id="projects">
+        <div className="grid grid-cols-1 lg:grid-cols-3 gap-4 mb-8" id="projects">
             {CurrentProjects.map((project: ProjectProps, index: number) => (
                 <Project
                     key={index}
