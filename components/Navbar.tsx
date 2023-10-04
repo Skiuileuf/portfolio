@@ -12,7 +12,7 @@ export default function Navbar () {
               height={50}
               className="rounded-full bg-orange-500"
             />
-            <h1 className="text-2xl md:text-4xl font-bold">Nume Prenume</h1>
+            <h1 className="text-2xl md:text-4xl font-bold">Viziteu Mihai</h1>
           </div>
           <div className="hidden md:flex items-center space-x-6">
             <a href="#" className="hover:text-blue-500">About</a>

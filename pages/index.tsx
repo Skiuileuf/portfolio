@@ -11,7 +11,8 @@ import Panel from '@/components/Panel'
 import ContactButtons from '@/components/ContactButtons'
 import { AcademicCapIcon, BeakerIcon } from '@heroicons/react/24/solid'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import { faAward, faGraduationCap } from '@fortawesome/free-solid-svg-icons'
+import { faAward, faGears, faGraduationCap } from '@fortawesome/free-solid-svg-icons'
+import WorkExperience from '@/components/WorkExperience'
 
 const inter = Inter({ subsets: ['latin'] })
 
@@ -62,8 +63,9 @@ export default function Home() {
             <Panel>
               <h1 className="text-4xl font-bold">About me</h1>
               <p className="text-2xl font-normal">
-                Menestrel trist, mai aburit ca vinul vechi ciocnit la nuntă, de cuscrul mare dăruit cu pungi, panglici, beteli cu funtă.
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sint quas, distinctio inventore.
+                Student la Facultatea de Contabilitate și Informatică de Gestiune, ASE București.
+                Pasionat de informatică, dezvolt software de peste 3 ani.
+                Am multiple proiecte personale realizate folosind tehnologii relevante pentru industrie. Majoritatea sunt disponibile pe GitHub. Printre cele mai importante se numara siteul nicoviangi.ro .
               </p>
             </Panel>
           }
@@ -72,12 +74,12 @@ export default function Home() {
               <h1 className="text-4xl font-bold">Skills</h1>
               <div className="grid grid-cols-3 gap-x-8">
                 <div className="flex justify-between align-bottom">
-                        <div>Romanian</div>
-                        <div className='bg-gray-800 text-gray-100 rounded-full px-2'>Native</div>
+                  <div>Romanian</div>
+                  <div className='bg-gray-800 text-gray-100 rounded-full px-2'>Native</div>
                 </div>
                 <div className="flex justify-between align-bottom">
-                        <div>English</div>
-                        <div className='bg-gray-800 text-gray-100 rounded-full px-2'>B2</div>
+                  <div>English</div>
+                  <div className='bg-gray-800 text-gray-100 rounded-full px-2'>B2</div>
                 </div>
               </div>
               <Skills />
@@ -85,18 +87,25 @@ export default function Home() {
           }
           className='pt-16 gap-2'
         />
+
         <Panel className='my-4'>
+          <div id="projects" style={{ transform: "translateX(-100px)" }}></div>
+          <h2 className="text-xl font-semibold mb-2"><FontAwesomeIcon icon={faGears} className='h-6 w-6 inline-block mr-2 align-bottom' />Work Experience</h2>
+          <WorkExperience />
+        </Panel>
+
+        <Panel className='my-4'>
+          <div id="projects" style={{ transform: "translateX(-100px)" }}></div>
           <h2 className="text-xl font-semibold mb-2"><FontAwesomeIcon icon={faGraduationCap} className='h-6 w-6 inline-block mr-2 align-bottom' />Education</h2>
-          {/* <p className="text-gray-700 mb-3">Lorem ipsum</p> */}
           <Education />
         </Panel>
 
         <Panel className='my-4'>
           <h2 className="text-xl font-semibold mb-2"><FontAwesomeIcon icon={faAward} className='h-6 w-6 inline-block mr-2 align-bottom' />Awards</h2>
-          {/* <p className="text-gray-700 mb-3">Lorem ipsum</p> */}
           <Awards />
         </Panel>
 
+        {/* <div id="projects" style={{transform: "translateX(-100)" }}></div> */}
         {/* <Panel className='mt-4 mb-16'> */}
         <Projects />
         {/* </Panel> */}

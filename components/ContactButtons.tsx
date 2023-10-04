@@ -29,7 +29,7 @@ const contactInformation: ContactInformation[] = [
 
 export default function ContactButtons () {
     return (
-        <div className="flex flex-row gap-4 mt-4">
+        <div className="flex flex-row gap-2 mt-4">
             {contactInformation.map((contact, index) => (
                 <Link
                     key={index}
