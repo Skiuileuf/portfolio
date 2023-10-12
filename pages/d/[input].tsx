@@ -5,13 +5,26 @@ import { useRef, useState } from "react";
 
 export default function DiscordTrolling() {
 
-    const router = useRouter();
+    const base64decode = (str: string):string => Buffer.from(str, 'base64').toString('binary');
 
-    const thumbnailImage = router.query.ti as string;
-    const videoURL = router.query.vu as string;
-    const videoHeight = router.query.vh as string;
-    const videoWidth = router.query.vw as string;
-    const refresh = router.query.rf as string;
+
+    const router = useRouter();
+    const fromSlug = router.query.input as string;
+
+    // const headcontent: HeadContentProps = JSON.parse(base64decode(fromSlug));
+    const headcontent: HeadContentProps = JSON.parse(atob(fromSlug));
+
+    // const thumbnailImage = router.query.ti as string;
+    // const videoURL = router.query.vu as string;
+    // const videoHeight = router.query.vh as string;
+    // const videoWidth = router.query.vw as string;
+    // const refresh = router.query.rf as string;
+
+    const thumbnailImage = headcontent.thumbnailImage;
+    const videoURL = headcontent.videoURL;
+    const videoHeight = headcontent.videoHeight;
+    const videoWidth = headcontent.videoWidth;
+    const refresh = headcontent.refresh;
 
     console.log(thumbnailImage, videoURL, videoHeight, videoWidth, refresh);
 
@@ -26,7 +39,7 @@ export default function DiscordTrolling() {
     )
 }
 
-interface HeadContentProps {
+export interface HeadContentProps {
     thumbnailImage: string;
     videoURL: string;
     videoHeight: string;

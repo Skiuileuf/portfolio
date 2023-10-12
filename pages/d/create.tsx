@@ -1,5 +1,6 @@
 import Panel from "@/components/Panel";
 import { useState } from "react";
+import { HeadContentProps } from "./[input]";
 
 export default function LinkCreator() {
     const [thumbnailImage, setThumbnailImage] = useState("");
@@ -68,6 +69,25 @@ export default function LinkCreator() {
                         return url.href;
                     })()}
                 </p>
+
+                <pre className="overflow-scroll">
+                    {(() => {
+
+                        const base64encode = (str: string):string => Buffer.from(str, 'binary').toString('base64');
+
+                        const data: HeadContentProps = {
+                            thumbnailImage,
+                            videoURL,
+                            videoHeight,
+                            videoWidth,
+                            refresh
+                        };
+
+                        return base64encode(JSON.stringify(data));
+
+                        
+                    })()}
+                </pre>
 
             </Panel>
         </div>
