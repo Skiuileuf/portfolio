@@ -57,20 +57,8 @@ export default function LinkCreator() {
                     onChange={(e) => setRefresh(e.target.value)}
                 />
 
-                <p>
-                    {(() => {
-                        const url = new URL("https://viziteumihai.ro/d");
-                        url.searchParams.set("ti", thumbnailImage);
-                        url.searchParams.set("vu", videoURL);
-                        videoHeight && url.searchParams.set("vh", videoHeight);
-                        videoWidth && url.searchParams.set("vw", videoWidth);
-                        refresh && url.searchParams.set("rf", refresh);
-
-                        return url.href;
-                    })()}
-                </p>
-
-                <pre className="overflow-scroll">
+                <p style={{overflowWrap: "break-word"}}>
+                    https://viziteumihai.ro/d/
                     {(() => {
 
                         const base64encode = (str: string):string => Buffer.from(str, 'binary').toString('base64');
@@ -87,7 +75,7 @@ export default function LinkCreator() {
 
                         
                     })()}
-                </pre>
+                </p>
 
             </Panel>
         </div>
