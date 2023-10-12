@@ -10,11 +10,11 @@ export default function DiscordTrolling() {
     const router = useRouter();
     const fromSlug = router.query.input as string;
 
-    if(!fromSlug) return (
-    <HeadContent 
-        thumbnailImage={"https://raw.githubusercontent.com/discowd-nitro/media-files/main/media/huh.gif"} 
-        videoURL={"https://raw.githubusercontent.com/discowd-nitro/media-files/main/media/misery.mp4"} 
-    />);
+    // if(!fromSlug) return (
+    // <HeadContent 
+    //     thumbnailImage={"https://raw.githubusercontent.com/discowd-nitro/media-files/main/media/huh.gif"} 
+    //     videoURL={"https://raw.githubusercontent.com/discowd-nitro/media-files/main/media/misery.mp4"} 
+    // />);
 
     const headcontent: HeadContentProps = JSON.parse(atob(fromSlug));
 
@@ -69,4 +69,13 @@ function HeadContent(props: HeadContentProps) {
         {/* <!-- Redirect --> */}
         {props.refresh && <meta httpEquiv="refresh" content={`0; url=${props.refresh}`} />}
     </Head>
+}
+
+
+export const getServerSideProps = async (context: any) => {
+    return {
+        props: {
+            fromSlug: context.query.input
+        }
+    }
 }
