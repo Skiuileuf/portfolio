@@ -3,12 +3,10 @@ import Head from "next/head";
 import { useRouter } from "next/router";
 import { useRef, useState } from "react";
 
-export default function DiscordTrolling() {
+export default function DiscordTrolling({ fromSlug }: { fromSlug: string}) {
 
-    const base64decode = (str: string):string => Buffer.from(str, 'base64').toString('binary');
-
-    const router = useRouter();
-    const fromSlug = router.query.input as string;
+    // const router = useRouter();
+    // const fromSlug = router.query.input as string;
 
     // if(!fromSlug) return (
     // <HeadContent 
