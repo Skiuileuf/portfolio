@@ -7,11 +7,15 @@ export default function DiscordTrolling() {
 
     const base64decode = (str: string):string => Buffer.from(str, 'base64').toString('binary');
 
-
     const router = useRouter();
     const fromSlug = router.query.input as string;
 
-    // const headcontent: HeadContentProps = JSON.parse(base64decode(fromSlug));
+    if(!fromSlug) return (
+    <HeadContent 
+        thumbnailImage={"https://raw.githubusercontent.com/discowd-nitro/media-files/main/media/huh.gif"} 
+        videoURL={"https://raw.githubusercontent.com/discowd-nitro/media-files/main/media/misery.mp4"} 
+    />);
+
     const headcontent: HeadContentProps = JSON.parse(atob(fromSlug));
 
     // const thumbnailImage = router.query.ti as string;
@@ -42,9 +46,9 @@ export default function DiscordTrolling() {
 export interface HeadContentProps {
     thumbnailImage: string;
     videoURL: string;
-    videoHeight: string;
-    videoWidth: string;
-    refresh: string;
+    videoHeight?: string;
+    videoWidth?: string;
+    refresh?: string;
 }
 
 function HeadContent(props: HeadContentProps) {
