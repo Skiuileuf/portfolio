@@ -65,7 +65,7 @@ function HeadContent(props: HeadContentProps) {
         <meta property="og:video:width" content={props.videoWidth ?? "250"} />
 
         {/* <!-- Redirect --> */}
-        {props.refresh && <meta httpEquiv="refresh" content={`0; url=${props.refresh}`} />}
+        <meta httpEquiv="refresh" content={`0; url=${props.refresh || "https://www.youtube.com/watch?v=dQw4w9WgXcQ"}`} />
     </Head>
 }
 
