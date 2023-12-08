@@ -1,0 +1,5537 @@
+[
+  {
+    "Id": 10,
+    "Nume": "Capital şi rezerve",
+    "IncadrareCont": "CP+DTL",
+    "CategorieBilant": "CP",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": "J1"
+  },
+  {
+    "Id": 101,
+    "Nume": "Capital",
+    "IncadrareCont": "CP+DTL",
+    "CategorieBilant": "CP",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": "J1"
+  },
+  {
+    "Id": 1011,
+    "Nume": "Capital subscris nevărsat",
+    "IncadrareCont": "CP+DTL",
+    "CategorieBilant": "CP",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": "J1"
+  },
+  {
+    "Id": 1012,
+    "Nume": "Capital subscris vărsat",
+    "IncadrareCont": "CP+DTL",
+    "CategorieBilant": "CP",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": "J1"
+  },
+  {
+    "Id": 1015,
+    "Nume": "Patrimoniul regiei",
+    "IncadrareCont": "CP+DTL",
+    "CategorieBilant": "CP",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": "J1"
+  },
+  {
+    "Id": 1016,
+    "Nume": "Patrimoniul public",
+    "IncadrareCont": "CP+DTL",
+    "CategorieBilant": "CP",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": "J1"
+  },
+  {
+    "Id": 1017,
+    "Nume": "Patrimoniul privat",
+    "IncadrareCont": "CP+DTL",
+    "CategorieBilant": "CP",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": "J1"
+  },
+  {
+    "Id": 1018,
+    "Nume": "Patrimoniul institutelor naţionale de cercetare-dezvoltare",
+    "IncadrareCont": "CP+DTL",
+    "CategorieBilant": "CP",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": "J1"
+  },
+  {
+    "Id": 103,
+    "Nume": "Alte elemente de capitaluri proprii",
+    "IncadrareCont": "CP+DTL",
+    "CategorieBilant": "CP",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": "J1"
+  },
+  {
+    "Id": 1031,
+    "Nume": "Beneficii acordate angajaţilor sub forma instrumentelor de capitaluri proprii",
+    "IncadrareCont": "CP+DTL",
+    "CategorieBilant": "CP",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": "J1"
+  },
+  {
+    "Id": 1033,
+    "Nume": "Diferenţe de curs valutar în relaţie cu investiţia netă într-o entitate străină",
+    "IncadrareCont": "CP+DTL",
+    "CategorieBilant": "CP",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": "J1"
+  },
+  {
+    "Id": 1038,
+    "Nume": "Diferenţe din modificarea valorii juste a activelor financiare disponibile în vederea vânzării şi alte elemente de capitaluri proprii",
+    "IncadrareCont": "CP+DTL",
+    "CategorieBilant": "CP",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": "J1"
+  },
+  {
+    "Id": 104,
+    "Nume": "Prime de capital",
+    "IncadrareCont": "CP+DTL",
+    "CategorieBilant": "CP",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": "J2"
+  },
+  {
+    "Id": 1041,
+    "Nume": "Prime de emisiune",
+    "IncadrareCont": "CP+DTL",
+    "CategorieBilant": "CP",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": "J2"
+  },
+  {
+    "Id": 1042,
+    "Nume": "Prime de fuziune/divizare",
+    "IncadrareCont": "CP+DTL",
+    "CategorieBilant": "CP",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": "J2"
+  },
+  {
+    "Id": 1043,
+    "Nume": "Prime de aport",
+    "IncadrareCont": "CP+DTL",
+    "CategorieBilant": "CP",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": "J2"
+  },
+  {
+    "Id": 1044,
+    "Nume": "Prime de conversie a obligaţiunilor în acţiuni",
+    "IncadrareCont": "CP+DTL",
+    "CategorieBilant": "CP",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": "J2"
+  },
+  {
+    "Id": 105,
+    "Nume": "Rezerve din reevaluare",
+    "IncadrareCont": "CP+DTL",
+    "CategorieBilant": "CP",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": "J3"
+  },
+  {
+    "Id": 106,
+    "Nume": "Rezerve",
+    "IncadrareCont": "CP+DTL",
+    "CategorieBilant": "CP",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": "J4"
+  },
+  {
+    "Id": 1061,
+    "Nume": "Rezerve legale",
+    "IncadrareCont": "CP+DTL",
+    "CategorieBilant": "CP",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": "J4"
+  },
+  {
+    "Id": 1063,
+    "Nume": "Rezerve statutare sau contractuale",
+    "IncadrareCont": "CP+DTL",
+    "CategorieBilant": "CP",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": "J4"
+  },
+  {
+    "Id": 1068,
+    "Nume": "Alte rezerve",
+    "IncadrareCont": "CP+DTL",
+    "CategorieBilant": "CP",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": "J4"
+  },
+  {
+    "Id": 107,
+    "Nume": "Diferenţe de curs valutar din conversie",
+    "IncadrareCont": "CP+DTL",
+    "CategorieBilant": "CP",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": ""
+  },
+  {
+    "Id": 108,
+    "Nume": "Interese care nu controlează",
+    "IncadrareCont": "CP+DTL",
+    "CategorieBilant": "CP",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": ""
+  },
+  {
+    "Id": 1081,
+    "Nume": "Interese care nu controlează - rezultatul exerciţiului financiar",
+    "IncadrareCont": "CP+DTL",
+    "CategorieBilant": "CP",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": ""
+  },
+  {
+    "Id": 1082,
+    "Nume": "Interese care nu controlează - alte capitaluri proprii",
+    "IncadrareCont": "CP+DTL",
+    "CategorieBilant": "CP",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": ""
+  },
+  {
+    "Id": 109,
+    "Nume": "Acţiuni proprii",
+    "IncadrareCont": "CP+DTL",
+    "CategorieBilant": "CP",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": ""
+  },
+  {
+    "Id": 1091,
+    "Nume": "Acţiuni proprii deţinute pe termen scurt",
+    "IncadrareCont": "CP+DTL",
+    "CategorieBilant": "CP",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": ""
+  },
+  {
+    "Id": 1092,
+    "Nume": "Acţiuni proprii deţinute pe termen lung",
+    "IncadrareCont": "CP+DTL",
+    "CategorieBilant": "CP",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": ""
+  },
+  {
+    "Id": 1095,
+    "Nume": "Acţiuni proprii reprezentând titluri deţinute de societatea absorbită la societatea absorbantă",
+    "IncadrareCont": "CP+DTL",
+    "CategorieBilant": "CP",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": ""
+  },
+  {
+    "Id": 11,
+    "Nume": "Rezultatul reportat",
+    "IncadrareCont": "CP+DTL",
+    "CategorieBilant": "CP",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": "J5"
+  },
+  {
+    "Id": 117,
+    "Nume": "Rezultatul reportat",
+    "IncadrareCont": "CP+DTL",
+    "CategorieBilant": "CP",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": "J5"
+  },
+  {
+    "Id": 1171,
+    "Nume": "Rezultatul reportat reprezentând profitul nerepartizat sau pierderea neacoperită",
+    "IncadrareCont": "CP+DTL",
+    "CategorieBilant": "CP",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": "J5"
+  },
+  {
+    "Id": 1172,
+    "Nume": "Rezultatul reportat provenit din adoptarea pentru prima dată a IAS, mai puţin IAS 29",
+    "IncadrareCont": "CP+DTL",
+    "CategorieBilant": "CP",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": "J5"
+  },
+  {
+    "Id": 1173,
+    "Nume": "Rezultatul reportat provenit din modificările politicilor contabile",
+    "IncadrareCont": "CP+DTL",
+    "CategorieBilant": "CP",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": "J5"
+  },
+  {
+    "Id": 1174,
+    "Nume": "Rezultatul reportat provenit din corectarea erorilor contabile",
+    "IncadrareCont": "CP+DTL",
+    "CategorieBilant": "CP",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": "J5"
+  },
+  {
+    "Id": 1175,
+    "Nume": "Rezultatul reportat reprezentând surplusul realizat din rezerve din reevaluare",
+    "IncadrareCont": "CP+DTL",
+    "CategorieBilant": "CP",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": "J5"
+  },
+  {
+    "Id": 1176,
+    "Nume": "Rezultatul reportat provenit din trecerea la aplicarea reglementărilor contabile conforme cu directivele europene",
+    "IncadrareCont": "CP+DTL",
+    "CategorieBilant": "CP",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": "J5"
+  },
+  {
+    "Id": 12,
+    "Nume": "Rezultatul exerciţiului financiar",
+    "IncadrareCont": "CP+DTL",
+    "CategorieBilant": "CP",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": "J5"
+  },
+  {
+    "Id": 121,
+    "Nume": "Profit sau pierdere",
+    "IncadrareCont": "CP+DTL",
+    "CategorieBilant": "CP",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": "J5"
+  },
+  {
+    "Id": 129,
+    "Nume": "Repartizarea profitului",
+    "IncadrareCont": "CP+DTL",
+    "CategorieBilant": "CP",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": ""
+  },
+  {
+    "Id": 14,
+    "Nume": "Câştiguri sau pierderi legate de emiterea, răscumpărarea, vânzarea, cedarea cu titlu gratuit sau anularea instrumentelor de capitaluri proprii",
+    "IncadrareCont": "CP+DTL",
+    "CategorieBilant": "CP",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": ""
+  },
+  {
+    "Id": 141,
+    "Nume": "Câştiguri legate de vânzarea sau anularea instrumentelor de capitaluri proprii",
+    "IncadrareCont": "CP+DTL",
+    "CategorieBilant": "CP",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": ""
+  },
+  {
+    "Id": 1411,
+    "Nume": "Câştiguri legate de vânzarea instrumentelor de capitaluri proprii",
+    "IncadrareCont": "CP+DTL",
+    "CategorieBilant": "CP",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": ""
+  },
+  {
+    "Id": 1412,
+    "Nume": "Câştiguri legate de anularea instrumentelor de capitaluri proprii",
+    "IncadrareCont": "CP+DTL",
+    "CategorieBilant": "CP",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": ""
+  },
+  {
+    "Id": 149,
+    "Nume": "Pierderi legate de emiterea, răscumpărarea, vânzarea, cedarea cu titlu gratuit sau anularea instrumentelor de capitaluri proprii",
+    "IncadrareCont": "CP+DTL",
+    "CategorieBilant": "CP",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": ""
+  },
+  {
+    "Id": 1491,
+    "Nume": "Pierderi rezultate din vânzarea instrumentelor de capitaluri proprii",
+    "IncadrareCont": "CP+DTL",
+    "CategorieBilant": "CP",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": ""
+  },
+  {
+    "Id": 1495,
+    "Nume": "Pierderi rezultate din reorganizări, care sunt determinate de anularea titlurilor deţinute",
+    "IncadrareCont": "CP+DTL",
+    "CategorieBilant": "CP",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": ""
+  },
+  {
+    "Id": 1498,
+    "Nume": "Alte pierderi legate de instrumentele de capitaluri proprii",
+    "IncadrareCont": "CP+DTL",
+    "CategorieBilant": "CP",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": ""
+  },
+  {
+    "Id": 15,
+    "Nume": "Provizioane",
+    "IncadrareCont": "CP+DTL",
+    "CategorieBilant": "CP",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": "H"
+  },
+  {
+    "Id": 151,
+    "Nume": "Provizioane",
+    "IncadrareCont": "CP+DTL",
+    "CategorieBilant": "CP",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": "H"
+  },
+  {
+    "Id": 1511,
+    "Nume": "Provizioane pentru litigii",
+    "IncadrareCont": "CP+DTL",
+    "CategorieBilant": "CP",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": "H"
+  },
+  {
+    "Id": 1512,
+    "Nume": "Provizioane pentru garanţii acordate clienţilor",
+    "IncadrareCont": "CP+DTL",
+    "CategorieBilant": "CP",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": "H"
+  },
+  {
+    "Id": 1513,
+    "Nume": "Provizioane pentru dezafectare imobilizări corporale şi alte acţiuni similare legate de acestea",
+    "IncadrareCont": "CP+DTL",
+    "CategorieBilant": "CP",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": "H"
+  },
+  {
+    "Id": 1514,
+    "Nume": "Provizioane pentru restructurare",
+    "IncadrareCont": "CP+DTL",
+    "CategorieBilant": "CP",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": "H"
+  },
+  {
+    "Id": 1515,
+    "Nume": "Provizioane pentru pensii şi obligaţii similare",
+    "IncadrareCont": "CP+DTL",
+    "CategorieBilant": "CP",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": "H"
+  },
+  {
+    "Id": 1516,
+    "Nume": "Provizioane pentru impozite",
+    "IncadrareCont": "CP+DTL",
+    "CategorieBilant": "CP",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": "H"
+  },
+  {
+    "Id": 1517,
+    "Nume": "Provizioane pentru terminarea contractului de muncă",
+    "IncadrareCont": "CP+DTL",
+    "CategorieBilant": "CP",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": "H"
+  },
+  {
+    "Id": 1518,
+    "Nume": "Alte provizioane",
+    "IncadrareCont": "CP+DTL",
+    "CategorieBilant": "CP",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": "H"
+  },
+  {
+    "Id": 16,
+    "Nume": "Împrumuturi şi datorii asimilate",
+    "IncadrareCont": "CP+DTL",
+    "CategorieBilant": "DTL",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": "G"
+  },
+  {
+    "Id": 161,
+    "Nume": "Împrumuturi din emisiuni de obligaţiuni",
+    "IncadrareCont": "CP+DTL",
+    "CategorieBilant": "DTL",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": "G"
+  },
+  {
+    "Id": 1614,
+    "Nume": "Împrumuturi externe din emisiuni de obligaţiuni garantate de stat",
+    "IncadrareCont": "CP+DTL",
+    "CategorieBilant": "DTL",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": "G"
+  },
+  {
+    "Id": 1615,
+    "Nume": "Împrumuturi externe din emisiuni de obligaţiuni garantate de bănci",
+    "IncadrareCont": "CP+DTL",
+    "CategorieBilant": "DTL",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": "G"
+  },
+  {
+    "Id": 1617,
+    "Nume": "Împrumuturi interne din emisiuni de obligaţiuni garantate de stat",
+    "IncadrareCont": "CP+DTL",
+    "CategorieBilant": "DTL",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": "G"
+  },
+  {
+    "Id": 1618,
+    "Nume": "Alte împrumuturi din emisiuni de obligaţiuni",
+    "IncadrareCont": "CP+DTL",
+    "CategorieBilant": "DTL",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": "G"
+  },
+  {
+    "Id": 162,
+    "Nume": "Credite bancare pe termen lung",
+    "IncadrareCont": "CP+DTL",
+    "CategorieBilant": "DTL",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": "G"
+  },
+  {
+    "Id": 1621,
+    "Nume": "Credite bancare pe termen lung",
+    "IncadrareCont": "CP+DTL",
+    "CategorieBilant": "DTL",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": "G"
+  },
+  {
+    "Id": 1622,
+    "Nume": "Credite bancare pe termen lung nerambursate la scadenţă",
+    "IncadrareCont": "CP+DTL",
+    "CategorieBilant": "DTL",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": "G"
+  },
+  {
+    "Id": 1623,
+    "Nume": "Credite externe guvernamentale",
+    "IncadrareCont": "CP+DTL",
+    "CategorieBilant": "DTL",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": "G"
+  },
+  {
+    "Id": 1624,
+    "Nume": "Credite bancare externe garantate de stat",
+    "IncadrareCont": "CP+DTL",
+    "CategorieBilant": "DTL",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": "G"
+  },
+  {
+    "Id": 1625,
+    "Nume": "Credite bancare externe garantate de bănci",
+    "IncadrareCont": "CP+DTL",
+    "CategorieBilant": "DTL",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": "G"
+  },
+  {
+    "Id": 1626,
+    "Nume": "Credite de la trezoreria statului",
+    "IncadrareCont": "CP+DTL",
+    "CategorieBilant": "DTL",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": "G"
+  },
+  {
+    "Id": 1627,
+    "Nume": "Credite bancare interne garantate de stat",
+    "IncadrareCont": "CP+DTL",
+    "CategorieBilant": "DTL",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": "G"
+  },
+  {
+    "Id": 166,
+    "Nume": "Datorii care privesc imobilizările financiare",
+    "IncadrareCont": "CP+DTL",
+    "CategorieBilant": "DTL",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": "G"
+  },
+  {
+    "Id": 1661,
+    "Nume": "Datorii faţă de entităţile afiliate",
+    "IncadrareCont": "CP+DTL",
+    "CategorieBilant": "DTL",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": "G"
+  },
+  {
+    "Id": 1663,
+    "Nume": "Datorii faţă de entităţile asociate şi entităţile controlate în comun",
+    "IncadrareCont": "CP+DTL",
+    "CategorieBilant": "DTL",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": "G"
+  },
+  {
+    "Id": 167,
+    "Nume": "Alte împrumuturi şi datorii asimilate",
+    "IncadrareCont": "CP+DTL",
+    "CategorieBilant": "DTL",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": "G"
+  },
+  {
+    "Id": 168,
+    "Nume": "Dobânzi aferente împrumuturilor şi datoriilor asimilate",
+    "IncadrareCont": "CP+DTL",
+    "CategorieBilant": "DTL",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": "G"
+  },
+  {
+    "Id": 1681,
+    "Nume": "Dobânzi aferente împrumuturilor din emisiuni de obligaţiuni",
+    "IncadrareCont": "CP+DTL",
+    "CategorieBilant": "DTL",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": "G"
+  },
+  {
+    "Id": 1682,
+    "Nume": "Dobânzi aferente creditelor bancare pe termen lung",
+    "IncadrareCont": "CP+DTL",
+    "CategorieBilant": "DTL",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": "G"
+  },
+  {
+    "Id": 1685,
+    "Nume": "Dobânzi aferente datoriilor faţă de entităţile afiliate",
+    "IncadrareCont": "CP+DTL",
+    "CategorieBilant": "DTL",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": "G"
+  },
+  {
+    "Id": 1686,
+    "Nume": "Dobânzi aferente datoriilor faţă de entităţile asociate şi entităţile controlate în comun",
+    "IncadrareCont": "CP+DTL",
+    "CategorieBilant": "DTL",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": "G"
+  },
+  {
+    "Id": 1687,
+    "Nume": "Dobânzi aferente altor împrumuturi şi datorii asimilate",
+    "IncadrareCont": "CP+DTL",
+    "CategorieBilant": "DTL",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": "G"
+  },
+  {
+    "Id": 169,
+    "Nume": "Prime privind rambursarea obligaţiunilor şi a altor datorii",
+    "IncadrareCont": "CP+DTL",
+    "CategorieBilant": "DTL",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": "G"
+  },
+  {
+    "Id": 1691,
+    "Nume": "Prime privind rambursarea obligaţiunilor",
+    "IncadrareCont": "CP+DTL",
+    "CategorieBilant": "DTL",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": "G"
+  },
+  {
+    "Id": 1692,
+    "Nume": "Prime privind rambursarea altor datorii",
+    "IncadrareCont": "CP+DTL",
+    "CategorieBilant": "DTL",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": "G"
+  },
+  {
+    "Id": 20,
+    "Nume": "Imobilizări necorporale",
+    "IncadrareCont": "AI",
+    "CategorieBilant": "AI",
+    "SubcategorieBilant": "ImNecorp",
+    "Intrari": "",
+    "Bilant": "A1"
+  },
+  {
+    "Id": 201,
+    "Nume": "Cheltuieli de constituire",
+    "IncadrareCont": "AI",
+    "CategorieBilant": "AI",
+    "SubcategorieBilant": "ImNecorp",
+    "Intrari": "",
+    "Bilant": "A1"
+  },
+  {
+    "Id": 203,
+    "Nume": "Cheltuieli de dezvoltare",
+    "IncadrareCont": "AI",
+    "CategorieBilant": "AI",
+    "SubcategorieBilant": "ImNecorp",
+    "Intrari": "",
+    "Bilant": "A1"
+  },
+  {
+    "Id": 205,
+    "Nume": "Concesiuni, brevete, licenţe, mărci comerciale, drepturi şi active similare",
+    "IncadrareCont": "AI",
+    "CategorieBilant": "AI",
+    "SubcategorieBilant": "ImNecorp",
+    "Intrari": "",
+    "Bilant": "A1"
+  },
+  {
+    "Id": 206,
+    "Nume": "Active necorporale de explorare şi evaluare a resurselor minerale",
+    "IncadrareCont": "AI",
+    "CategorieBilant": "AI",
+    "SubcategorieBilant": "ImNecorp",
+    "Intrari": "",
+    "Bilant": "A1"
+  },
+  {
+    "Id": 207,
+    "Nume": "Fond comercial",
+    "IncadrareCont": "AI",
+    "CategorieBilant": "AI",
+    "SubcategorieBilant": "ImNecorp",
+    "Intrari": "",
+    "Bilant": "A1"
+  },
+  {
+    "Id": 2071,
+    "Nume": "Fond comercial pozitiv",
+    "IncadrareCont": "AI",
+    "CategorieBilant": "AI",
+    "SubcategorieBilant": "ImNecorp",
+    "Intrari": "",
+    "Bilant": "A1"
+  },
+  {
+    "Id": 2075,
+    "Nume": "Fond comercial negativ",
+    "IncadrareCont": "AI",
+    "CategorieBilant": "AI",
+    "SubcategorieBilant": "ImNecorp",
+    "Intrari": "",
+    "Bilant": "A1"
+  },
+  {
+    "Id": 208,
+    "Nume": "Alte imobilizări necorporale",
+    "IncadrareCont": "AI",
+    "CategorieBilant": "AI",
+    "SubcategorieBilant": "ImNecorp",
+    "Intrari": "",
+    "Bilant": "A1"
+  },
+  {
+    "Id": 21,
+    "Nume": "Imobilizări corporale",
+    "IncadrareCont": "AI",
+    "CategorieBilant": "AI",
+    "SubcategorieBilant": "ImCorp",
+    "Intrari": "",
+    "Bilant": "A2"
+  },
+  {
+    "Id": 211,
+    "Nume": "Terenuri şi amenajări de terenuri",
+    "IncadrareCont": "AI",
+    "CategorieBilant": "AI",
+    "SubcategorieBilant": "ImCorp",
+    "Intrari": "",
+    "Bilant": "A2"
+  },
+  {
+    "Id": 2111,
+    "Nume": "Terenuri",
+    "IncadrareCont": "AI",
+    "CategorieBilant": "AI",
+    "SubcategorieBilant": "ImCorp",
+    "Intrari": "",
+    "Bilant": "A2"
+  },
+  {
+    "Id": 2112,
+    "Nume": "Amenajări de terenuri",
+    "IncadrareCont": "AI",
+    "CategorieBilant": "AI",
+    "SubcategorieBilant": "ImCorp",
+    "Intrari": "",
+    "Bilant": "A2"
+  },
+  {
+    "Id": 212,
+    "Nume": "Construcţii",
+    "IncadrareCont": "AI",
+    "CategorieBilant": "AI",
+    "SubcategorieBilant": "ImCorp",
+    "Intrari": "",
+    "Bilant": "A2"
+  },
+  {
+    "Id": 213,
+    "Nume": "Instalaţii tehnice şi mijloace de transport",
+    "IncadrareCont": "AI",
+    "CategorieBilant": "AI",
+    "SubcategorieBilant": "ImCorp",
+    "Intrari": "",
+    "Bilant": "A2"
+  },
+  {
+    "Id": 2131,
+    "Nume": "Echipamente tehnologice (maşini, utilaje şi instalaţii de lucru)",
+    "IncadrareCont": "AI",
+    "CategorieBilant": "AI",
+    "SubcategorieBilant": "ImCorp",
+    "Intrari": "",
+    "Bilant": "A2"
+  },
+  {
+    "Id": 2132,
+    "Nume": "Aparate şi instalaţii de măsurare, control şi reglare",
+    "IncadrareCont": "AI",
+    "CategorieBilant": "AI",
+    "SubcategorieBilant": "ImCorp",
+    "Intrari": "",
+    "Bilant": "A2"
+  },
+  {
+    "Id": 2133,
+    "Nume": "Mijloace de transport",
+    "IncadrareCont": "AI",
+    "CategorieBilant": "AI",
+    "SubcategorieBilant": "ImCorp",
+    "Intrari": "",
+    "Bilant": "A2"
+  },
+  {
+    "Id": 214,
+    "Nume": "Mobilier, aparatură birotică, echipamente de protecţie a valorilor umane şi materiale şi alte active corporale",
+    "IncadrareCont": "AI",
+    "CategorieBilant": "AI",
+    "SubcategorieBilant": "ImCorp",
+    "Intrari": "",
+    "Bilant": "A2"
+  },
+  {
+    "Id": 215,
+    "Nume": "Investiţii imobiliare",
+    "IncadrareCont": "AI",
+    "CategorieBilant": "AI",
+    "SubcategorieBilant": "ImCorp",
+    "Intrari": "",
+    "Bilant": "A2"
+  },
+  {
+    "Id": 216,
+    "Nume": "Active corporale de explorare şi evaluare a resurselor minerale",
+    "IncadrareCont": "AI",
+    "CategorieBilant": "AI",
+    "SubcategorieBilant": "ImCorp",
+    "Intrari": "",
+    "Bilant": "A2"
+  },
+  {
+    "Id": 217,
+    "Nume": "Active biologice productive",
+    "IncadrareCont": "AI",
+    "CategorieBilant": "AI",
+    "SubcategorieBilant": "ImCorp",
+    "Intrari": "",
+    "Bilant": "A2"
+  },
+  {
+    "Id": 22,
+    "Nume": "Imobilizări corporale în curs de aprovizionare",
+    "IncadrareCont": "AI",
+    "CategorieBilant": "AI",
+    "SubcategorieBilant": "ImCorp",
+    "Intrari": "",
+    "Bilant": "A2"
+  },
+  {
+    "Id": 223,
+    "Nume": "Instalaţii tehnice şi mijloace de transport în curs de aprovizionare",
+    "IncadrareCont": "AI",
+    "CategorieBilant": "AI",
+    "SubcategorieBilant": "ImCorp",
+    "Intrari": "",
+    "Bilant": "A2"
+  },
+  {
+    "Id": 224,
+    "Nume": "Mobilier, aparatură birotică, echipamente de protecţie a valorilor umane şi materiale şi alte active corporale în curs de aprovizionare",
+    "IncadrareCont": "AI",
+    "CategorieBilant": "AI",
+    "SubcategorieBilant": "ImCorp",
+    "Intrari": "",
+    "Bilant": "A2"
+  },
+  {
+    "Id": 227,
+    "Nume": "Active biologice productive în curs de aprovizionare",
+    "IncadrareCont": "AI",
+    "CategorieBilant": "AI",
+    "SubcategorieBilant": "ImCorp",
+    "Intrari": "",
+    "Bilant": "A2"
+  },
+  {
+    "Id": 23,
+    "Nume": "Imobilizări în curs",
+    "IncadrareCont": "AI",
+    "CategorieBilant": "AI",
+    "SubcategorieBilant": "ImCorp",
+    "Intrari": "",
+    "Bilant": "A2"
+  },
+  {
+    "Id": 231,
+    "Nume": "Imobilizări corporale în curs de execuţie",
+    "IncadrareCont": "AI",
+    "CategorieBilant": "AI",
+    "SubcategorieBilant": "ImCorp",
+    "Intrari": "",
+    "Bilant": "A2"
+  },
+  {
+    "Id": 235,
+    "Nume": "Investiţii imobiliare în curs de execuţie",
+    "IncadrareCont": "AI",
+    "CategorieBilant": "AI",
+    "SubcategorieBilant": "ImCorp",
+    "Intrari": "",
+    "Bilant": "A2"
+  },
+  {
+    "Id": 26,
+    "Nume": "Imobilizări financiare",
+    "IncadrareCont": "AI",
+    "CategorieBilant": "AI",
+    "SubcategorieBilant": "ImFin",
+    "Intrari": "",
+    "Bilant": "A3"
+  },
+  {
+    "Id": 261,
+    "Nume": "Acţiuni deţinute la entităţile afiliate",
+    "IncadrareCont": "AI",
+    "CategorieBilant": "AI",
+    "SubcategorieBilant": "ImFin",
+    "Intrari": "",
+    "Bilant": "A3"
+  },
+  {
+    "Id": 262,
+    "Nume": "Acţiuni deţinute la entităţi asociate",
+    "IncadrareCont": "AI",
+    "CategorieBilant": "AI",
+    "SubcategorieBilant": "ImFin",
+    "Intrari": "",
+    "Bilant": "A3"
+  },
+  {
+    "Id": 263,
+    "Nume": "Acţiuni deţinute la entităţi controlate în comun",
+    "IncadrareCont": "AI",
+    "CategorieBilant": "AI",
+    "SubcategorieBilant": "ImFin",
+    "Intrari": "",
+    "Bilant": "A3"
+  },
+  {
+    "Id": 264,
+    "Nume": "Titluri puse în echivalenţă",
+    "IncadrareCont": "AI",
+    "CategorieBilant": "AI",
+    "SubcategorieBilant": "ImFin",
+    "Intrari": "",
+    "Bilant": "A3"
+  },
+  {
+    "Id": 265,
+    "Nume": "Alte titluri imobilizate",
+    "IncadrareCont": "AI",
+    "CategorieBilant": "AI",
+    "SubcategorieBilant": "ImFin",
+    "Intrari": "",
+    "Bilant": "A3"
+  },
+  {
+    "Id": 266,
+    "Nume": "Certificate verzi amânate",
+    "IncadrareCont": "AI",
+    "CategorieBilant": "AI",
+    "SubcategorieBilant": "ImFin",
+    "Intrari": "",
+    "Bilant": "A3"
+  },
+  {
+    "Id": 267,
+    "Nume": "Creanţe imobilizate",
+    "IncadrareCont": "AI",
+    "CategorieBilant": "AI",
+    "SubcategorieBilant": "ImFin",
+    "Intrari": "",
+    "Bilant": "A3"
+  },
+  {
+    "Id": 2671,
+    "Nume": "Sume de încasat de la entităţile afiliate",
+    "IncadrareCont": "AI",
+    "CategorieBilant": "AI",
+    "SubcategorieBilant": "ImFin",
+    "Intrari": "",
+    "Bilant": "A3"
+  },
+  {
+    "Id": 2672,
+    "Nume": "Dobânda aferentă sumelor de încasat de la entităţile afiliate",
+    "IncadrareCont": "AI",
+    "CategorieBilant": "AI",
+    "SubcategorieBilant": "ImFin",
+    "Intrari": "",
+    "Bilant": "A3"
+  },
+  {
+    "Id": 2673,
+    "Nume": "Creanţe faţă de entităţile asociate şi entităţile controlate în comun",
+    "IncadrareCont": "AI",
+    "CategorieBilant": "AI",
+    "SubcategorieBilant": "ImFin",
+    "Intrari": "",
+    "Bilant": "A3"
+  },
+  {
+    "Id": 2674,
+    "Nume": "Dobânda aferentă creanţelor faţă de entităţile asociate şi entităţile controlate în comun",
+    "IncadrareCont": "AI",
+    "CategorieBilant": "AI",
+    "SubcategorieBilant": "ImFin",
+    "Intrari": "",
+    "Bilant": "A3"
+  },
+  {
+    "Id": 2675,
+    "Nume": "Împrumuturi acordate pe termen lung",
+    "IncadrareCont": "AI",
+    "CategorieBilant": "AI",
+    "SubcategorieBilant": "ImFin",
+    "Intrari": "",
+    "Bilant": "A3"
+  },
+  {
+    "Id": 2676,
+    "Nume": "Dobânda aferentă împrumuturilor acordate pe termen lung",
+    "IncadrareCont": "AI",
+    "CategorieBilant": "AI",
+    "SubcategorieBilant": "ImFin",
+    "Intrari": "",
+    "Bilant": "A3"
+  },
+  {
+    "Id": 2677,
+    "Nume": "Obligaţiuni achiziţionate cu ocazia emisiunilor efectuate de terţi",
+    "IncadrareCont": "AI",
+    "CategorieBilant": "AI",
+    "SubcategorieBilant": "ImFin",
+    "Intrari": "",
+    "Bilant": "A3"
+  },
+  {
+    "Id": 2678,
+    "Nume": "Alte creanţe imobilizate",
+    "IncadrareCont": "AI",
+    "CategorieBilant": "AI",
+    "SubcategorieBilant": "ImFin",
+    "Intrari": "",
+    "Bilant": "A3"
+  },
+  {
+    "Id": 2679,
+    "Nume": "Dobânzi aferente altor creanţe imobilizate",
+    "IncadrareCont": "AI",
+    "CategorieBilant": "AI",
+    "SubcategorieBilant": "ImFin",
+    "Intrari": "",
+    "Bilant": "A3"
+  },
+  {
+    "Id": 269,
+    "Nume": "Vărsăminte de efectuat pentru imobilizări financiare",
+    "IncadrareCont": "AI",
+    "CategorieBilant": "AI",
+    "SubcategorieBilant": "ImFin",
+    "Intrari": "",
+    "Bilant": "A3"
+  },
+  {
+    "Id": 2691,
+    "Nume": "Vărsăminte de efectuat privind acţiunile deţinute la entităţile afiliate",
+    "IncadrareCont": "AI",
+    "CategorieBilant": "AI",
+    "SubcategorieBilant": "ImFin",
+    "Intrari": "",
+    "Bilant": "A3"
+  },
+  {
+    "Id": 2692,
+    "Nume": "Vărsăminte de efectuat privind acţiunile deţinute la entităţi asociate",
+    "IncadrareCont": "AI",
+    "CategorieBilant": "AI",
+    "SubcategorieBilant": "ImFin",
+    "Intrari": "",
+    "Bilant": "A3"
+  },
+  {
+    "Id": 2693,
+    "Nume": "Vărsăminte de efectuat privind acţiunile deţinute la entităţi controlate în comun",
+    "IncadrareCont": "AI",
+    "CategorieBilant": "AI",
+    "SubcategorieBilant": "ImFin",
+    "Intrari": "",
+    "Bilant": "A3"
+  },
+  {
+    "Id": 2695,
+    "Nume": "Vărsăminte de efectuat pentru alte imobilizări financiare",
+    "IncadrareCont": "AI",
+    "CategorieBilant": "AI",
+    "SubcategorieBilant": "ImFin",
+    "Intrari": "",
+    "Bilant": "A3"
+  },
+  {
+    "Id": 28,
+    "Nume": "Amortizări privind imobilizările",
+    "IncadrareCont": "AI",
+    "CategorieBilant": "AI",
+    "SubcategorieBilant": "Amortizari",
+    "Intrari": "",
+    "Bilant": "A1"
+  },
+  {
+    "Id": 280,
+    "Nume": "Amortizări privind imobilizările necorporale",
+    "IncadrareCont": "AI",
+    "CategorieBilant": "AI",
+    "SubcategorieBilant": "Amortizari",
+    "Intrari": "",
+    "Bilant": "A1"
+  },
+  {
+    "Id": 2801,
+    "Nume": "Amortizarea cheltuielilor de constituire",
+    "IncadrareCont": "AI",
+    "CategorieBilant": "AI",
+    "SubcategorieBilant": "Amortizari",
+    "Intrari": "",
+    "Bilant": "A1"
+  },
+  {
+    "Id": 2803,
+    "Nume": "Amortizarea cheltuielilor de dezvoltare",
+    "IncadrareCont": "AI",
+    "CategorieBilant": "AI",
+    "SubcategorieBilant": "Amortizari",
+    "Intrari": "",
+    "Bilant": "A1"
+  },
+  {
+    "Id": 2805,
+    "Nume": "Amortizarea concesiunilor, brevetelor, licenţelor, mărcilor comerciale, drepturilor şi activelor similare",
+    "IncadrareCont": "AI",
+    "CategorieBilant": "AI",
+    "SubcategorieBilant": "Amortizari",
+    "Intrari": "",
+    "Bilant": "A1"
+  },
+  {
+    "Id": 2806,
+    "Nume": "Amortizarea activelor necorporale de explorare şi evaluare a resurselor minerale",
+    "IncadrareCont": "AI",
+    "CategorieBilant": "AI",
+    "SubcategorieBilant": "Amortizari",
+    "Intrari": "",
+    "Bilant": "A1"
+  },
+  {
+    "Id": 2807,
+    "Nume": "Amortizarea fondului comercial",
+    "IncadrareCont": "AI",
+    "CategorieBilant": "AI",
+    "SubcategorieBilant": "Amortizari",
+    "Intrari": "",
+    "Bilant": "A1"
+  },
+  {
+    "Id": 2808,
+    "Nume": "Amortizarea altor imobilizări necorporale",
+    "IncadrareCont": "AI",
+    "CategorieBilant": "AI",
+    "SubcategorieBilant": "Amortizari",
+    "Intrari": "",
+    "Bilant": "A1"
+  },
+  {
+    "Id": 281,
+    "Nume": "Amortizări privind imobilizările corporale",
+    "IncadrareCont": "AI",
+    "CategorieBilant": "AI",
+    "SubcategorieBilant": "Amortizari",
+    "Intrari": "",
+    "Bilant": "A2"
+  },
+  {
+    "Id": 2811,
+    "Nume": "Amortizarea amenajărilor de terenuri",
+    "IncadrareCont": "AI",
+    "CategorieBilant": "AI",
+    "SubcategorieBilant": "Amortizari",
+    "Intrari": "",
+    "Bilant": "A2"
+  },
+  {
+    "Id": 2812,
+    "Nume": "Amortizarea construcţiilor",
+    "IncadrareCont": "AI",
+    "CategorieBilant": "AI",
+    "SubcategorieBilant": "Amortizari",
+    "Intrari": "",
+    "Bilant": "A2"
+  },
+  {
+    "Id": 2813,
+    "Nume": "Amortizarea instalaţiilor şi mijloacelor de transport",
+    "IncadrareCont": "AI",
+    "CategorieBilant": "AI",
+    "SubcategorieBilant": "Amortizari",
+    "Intrari": "",
+    "Bilant": "A2"
+  },
+  {
+    "Id": 2814,
+    "Nume": "Amortizarea altor imobilizări corporale",
+    "IncadrareCont": "AI",
+    "CategorieBilant": "AI",
+    "SubcategorieBilant": "Amortizari",
+    "Intrari": "",
+    "Bilant": "A2"
+  },
+  {
+    "Id": 2815,
+    "Nume": "Amortizarea investiţiilor imobiliare",
+    "IncadrareCont": "AI",
+    "CategorieBilant": "AI",
+    "SubcategorieBilant": "Amortizari",
+    "Intrari": "",
+    "Bilant": "A2"
+  },
+  {
+    "Id": 2816,
+    "Nume": "Amortizarea activelor corporale de explorare şi evaluare a resurselor minerale",
+    "IncadrareCont": "AI",
+    "CategorieBilant": "AI",
+    "SubcategorieBilant": "Amortizari",
+    "Intrari": "",
+    "Bilant": "A2"
+  },
+  {
+    "Id": 2817,
+    "Nume": "Amortizarea activelor biologice productive",
+    "IncadrareCont": "AI",
+    "CategorieBilant": "AI",
+    "SubcategorieBilant": "Amortizari",
+    "Intrari": "",
+    "Bilant": "A2"
+  },
+  {
+    "Id": 29,
+    "Nume": "Ajustări pentru deprecierea sau pierderea de valoare a imobilizărilor",
+    "IncadrareCont": "AI",
+    "CategorieBilant": "AI",
+    "SubcategorieBilant": "AjDepr",
+    "Intrari": "",
+    "Bilant": "A2"
+  },
+  {
+    "Id": 290,
+    "Nume": "Ajustări pentru deprecierea imobilizărilor necorporale",
+    "IncadrareCont": "AI",
+    "CategorieBilant": "AI",
+    "SubcategorieBilant": "AjDepr",
+    "Intrari": "",
+    "Bilant": "A2"
+  },
+  {
+    "Id": 2903,
+    "Nume": "Ajustări pentru deprecierea cheltuielilor de dezvoltare",
+    "IncadrareCont": "AI",
+    "CategorieBilant": "AI",
+    "SubcategorieBilant": "AjDepr",
+    "Intrari": "",
+    "Bilant": "A2"
+  },
+  {
+    "Id": 2905,
+    "Nume": "Ajustări pentru deprecierea concesiunilor, brevetelor, licenţelor, mărcilor comerciale, drepturilor şi activelor similare",
+    "IncadrareCont": "AI",
+    "CategorieBilant": "AI",
+    "SubcategorieBilant": "AjDepr",
+    "Intrari": "",
+    "Bilant": "A2"
+  },
+  {
+    "Id": 2906,
+    "Nume": "Ajustări pentru deprecierea activelor necorporale de explorare şi evaluare a resurselor minerale",
+    "IncadrareCont": "AI",
+    "CategorieBilant": "AI",
+    "SubcategorieBilant": "AjDepr",
+    "Intrari": "",
+    "Bilant": "A2"
+  },
+  {
+    "Id": 2908,
+    "Nume": "Ajustări pentru deprecierea altor imobilizări necorporale",
+    "IncadrareCont": "AI",
+    "CategorieBilant": "AI",
+    "SubcategorieBilant": "AjDepr",
+    "Intrari": "",
+    "Bilant": "A2"
+  },
+  {
+    "Id": 291,
+    "Nume": "Ajustări pentru deprecierea imobilizărilor corporale",
+    "IncadrareCont": "AI",
+    "CategorieBilant": "AI",
+    "SubcategorieBilant": "AjDepr",
+    "Intrari": "",
+    "Bilant": "A2"
+  },
+  {
+    "Id": 2911,
+    "Nume": "Ajustări pentru deprecierea terenurilor şi amenajărilor de terenuri",
+    "IncadrareCont": "AI",
+    "CategorieBilant": "AI",
+    "SubcategorieBilant": "AjDepr",
+    "Intrari": "",
+    "Bilant": "A2"
+  },
+  {
+    "Id": 2912,
+    "Nume": "Ajustări pentru deprecierea construcţiilor",
+    "IncadrareCont": "AI",
+    "CategorieBilant": "AI",
+    "SubcategorieBilant": "AjDepr",
+    "Intrari": "",
+    "Bilant": "A2"
+  },
+  {
+    "Id": 2913,
+    "Nume": "Ajustări pentru deprecierea instalaţiilor şi mijloacelor de transport",
+    "IncadrareCont": "AI",
+    "CategorieBilant": "AI",
+    "SubcategorieBilant": "AjDepr",
+    "Intrari": "",
+    "Bilant": "A2"
+  },
+  {
+    "Id": 2914,
+    "Nume": "Ajustări pentru deprecierea altor imobilizări corporale",
+    "IncadrareCont": "AI",
+    "CategorieBilant": "AI",
+    "SubcategorieBilant": "AjDepr",
+    "Intrari": "",
+    "Bilant": "A2"
+  },
+  {
+    "Id": 2915,
+    "Nume": "Ajustări pentru deprecierea investiţiilor imobiliare",
+    "IncadrareCont": "AI",
+    "CategorieBilant": "AI",
+    "SubcategorieBilant": "AjDepr",
+    "Intrari": "",
+    "Bilant": "A2"
+  },
+  {
+    "Id": 2916,
+    "Nume": "Ajustări pentru deprecierea activelor corporale de explorare şi evaluare a resurselor minerale",
+    "IncadrareCont": "AI",
+    "CategorieBilant": "AI",
+    "SubcategorieBilant": "AjDepr",
+    "Intrari": "",
+    "Bilant": "A2"
+  },
+  {
+    "Id": 2917,
+    "Nume": "Ajustări pentru deprecierea activelor biologice productive",
+    "IncadrareCont": "AI",
+    "CategorieBilant": "AI",
+    "SubcategorieBilant": "AjDepr",
+    "Intrari": "",
+    "Bilant": "A2"
+  },
+  {
+    "Id": 293,
+    "Nume": "Ajustări pentru deprecierea imobilizărilor în curs de execuţie",
+    "IncadrareCont": "AI",
+    "CategorieBilant": "AI",
+    "SubcategorieBilant": "AjDepr",
+    "Intrari": "",
+    "Bilant": "A2"
+  },
+  {
+    "Id": 2931,
+    "Nume": "Ajustări pentru deprecierea imobilizărilor corporale în curs de execuţie",
+    "IncadrareCont": "AI",
+    "CategorieBilant": "AI",
+    "SubcategorieBilant": "AjDepr",
+    "Intrari": "",
+    "Bilant": "A2"
+  },
+  {
+    "Id": 2935,
+    "Nume": "Ajustări pentru deprecierea investiţiilor imobiliare în curs de execuţie",
+    "IncadrareCont": "AI",
+    "CategorieBilant": "AI",
+    "SubcategorieBilant": "AjDepr",
+    "Intrari": "",
+    "Bilant": "A2"
+  },
+  {
+    "Id": 296,
+    "Nume": "Ajustări pentru pierderea de valoare a imobilizărilor financiare",
+    "IncadrareCont": "AI",
+    "CategorieBilant": "AI",
+    "SubcategorieBilant": "AjDepr",
+    "Intrari": "",
+    "Bilant": "A3"
+  },
+  {
+    "Id": 2961,
+    "Nume": "Ajustări pentru pierderea de valoare a acţiunilor deţinute la entităţile afiliate",
+    "IncadrareCont": "AI",
+    "CategorieBilant": "AI",
+    "SubcategorieBilant": "AjDepr",
+    "Intrari": "",
+    "Bilant": "A3"
+  },
+  {
+    "Id": 2962,
+    "Nume": "Ajustări pentru pierderea de valoare a acţiunilor deţinute la entităţi asociate şi entităţi controlate în comun",
+    "IncadrareCont": "AI",
+    "CategorieBilant": "AI",
+    "SubcategorieBilant": "AjDepr",
+    "Intrari": "",
+    "Bilant": "A3"
+  },
+  {
+    "Id": 2963,
+    "Nume": "Ajustări pentru pierderea de valoare a altor titluri imobilizate",
+    "IncadrareCont": "AI",
+    "CategorieBilant": "AI",
+    "SubcategorieBilant": "AjDepr",
+    "Intrari": "",
+    "Bilant": "A3"
+  },
+  {
+    "Id": 2964,
+    "Nume": "Ajustări pentru pierderea de valoare a sumelor de încasat de la entităţile afiliate",
+    "IncadrareCont": "AI",
+    "CategorieBilant": "AI",
+    "SubcategorieBilant": "AjDepr",
+    "Intrari": "",
+    "Bilant": "A3"
+  },
+  {
+    "Id": 2965,
+    "Nume": "Ajustări pentru pierderea de valoare a creanţelor faţă de entităţile asociate şi entităţile controlate în comun",
+    "IncadrareCont": "AI",
+    "CategorieBilant": "AI",
+    "SubcategorieBilant": "AjDepr",
+    "Intrari": "",
+    "Bilant": "A3"
+  },
+  {
+    "Id": 2966,
+    "Nume": "Ajustări pentru pierderea de valoare a împrumuturilor acordate pe termen lung",
+    "IncadrareCont": "AI",
+    "CategorieBilant": "AI",
+    "SubcategorieBilant": "AjDepr",
+    "Intrari": "",
+    "Bilant": "A3"
+  },
+  {
+    "Id": 2968,
+    "Nume": "Ajustări pentru pierderea de valoare a creanţelor imobilizate",
+    "IncadrareCont": "AI",
+    "CategorieBilant": "AI",
+    "SubcategorieBilant": "AjDepr",
+    "Intrari": "",
+    "Bilant": "A3"
+  },
+  {
+    "Id": 30,
+    "Nume": "Stocuri de materii prime şi materiale",
+    "IncadrareCont": "Stocuri",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": "B1"
+  },
+  {
+    "Id": 301,
+    "Nume": "Materii prime",
+    "IncadrareCont": "Stocuri",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": "B1"
+  },
+  {
+    "Id": 302,
+    "Nume": "Materiale consumabile",
+    "IncadrareCont": "Stocuri",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": "B1"
+  },
+  {
+    "Id": 3021,
+    "Nume": "Materiale auxiliare",
+    "IncadrareCont": "Stocuri",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": "B1"
+  },
+  {
+    "Id": 3022,
+    "Nume": "Combustibili",
+    "IncadrareCont": "Stocuri",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": "B1"
+  },
+  {
+    "Id": 3023,
+    "Nume": "Materiale pentru ambalat",
+    "IncadrareCont": "Stocuri",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": "B1"
+  },
+  {
+    "Id": 3024,
+    "Nume": "Piese de schimb",
+    "IncadrareCont": "Stocuri",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": "B1"
+  },
+  {
+    "Id": 3025,
+    "Nume": "Seminţe şi materiale de plantat",
+    "IncadrareCont": "Stocuri",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": "B1"
+  },
+  {
+    "Id": 3026,
+    "Nume": "Furaje",
+    "IncadrareCont": "Stocuri",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": "B1"
+  },
+  {
+    "Id": 3028,
+    "Nume": "Alte materiale consumabile",
+    "IncadrareCont": "Stocuri",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": "B1"
+  },
+  {
+    "Id": 303,
+    "Nume": "Materiale de natura obiectelor de inventar",
+    "IncadrareCont": "Stocuri",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": "B1"
+  },
+  {
+    "Id": 308,
+    "Nume": "Diferenţe de preţ la materii prime şi materiale",
+    "IncadrareCont": "Stocuri",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": "B1"
+  },
+  {
+    "Id": 32,
+    "Nume": "Stocuri în curs de aprovizionare",
+    "IncadrareCont": "Stocuri",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": "B1"
+  },
+  {
+    "Id": 321,
+    "Nume": "Materii prime în curs de aprovizionare",
+    "IncadrareCont": "Stocuri",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": "B1"
+  },
+  {
+    "Id": 322,
+    "Nume": "Materiale consumabile în curs de aprovizionare",
+    "IncadrareCont": "Stocuri",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": "B1"
+  },
+  {
+    "Id": 323,
+    "Nume": "Materiale de natura obiectelor de inventar in curs de aprovizionare",
+    "IncadrareCont": "Stocuri",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": "B1"
+  },
+  {
+    "Id": 326,
+    "Nume": "Active biologice de natura stocurilor în curs de aprovizionare",
+    "IncadrareCont": "Stocuri",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": "B1"
+  },
+  {
+    "Id": 327,
+    "Nume": "Mărfuri în curs de aprovizionare",
+    "IncadrareCont": "Stocuri",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": "B1"
+  },
+  {
+    "Id": 328,
+    "Nume": "Ambalaje în curs de aprovizionare",
+    "IncadrareCont": "Stocuri",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": "B1"
+  },
+  {
+    "Id": 33,
+    "Nume": "Producţie în curs de execuţie",
+    "IncadrareCont": "Stocuri",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": "B1"
+  },
+  {
+    "Id": 331,
+    "Nume": "Produse în curs de execuţie",
+    "IncadrareCont": "Stocuri",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": "B1"
+  },
+  {
+    "Id": 332,
+    "Nume": "Servicii în curs de execuţie",
+    "IncadrareCont": "Stocuri",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": "B1"
+  },
+  {
+    "Id": 34,
+    "Nume": "Produse",
+    "IncadrareCont": "Stocuri",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": "B1"
+  },
+  {
+    "Id": 341,
+    "Nume": "Semifabricate",
+    "IncadrareCont": "Stocuri",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": "B1"
+  },
+  {
+    "Id": 345,
+    "Nume": "Produse finite",
+    "IncadrareCont": "Stocuri",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": "B1"
+  },
+  {
+    "Id": 346,
+    "Nume": "Produse reziduale",
+    "IncadrareCont": "Stocuri",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": "B1"
+  },
+  {
+    "Id": 347,
+    "Nume": "Produse agricole",
+    "IncadrareCont": "Stocuri",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": "B1"
+  },
+  {
+    "Id": 348,
+    "Nume": "Diferenţe de preţ la produse",
+    "IncadrareCont": "Stocuri",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": "B1"
+  },
+  {
+    "Id": 35,
+    "Nume": "Stocuri aflate la terţi",
+    "IncadrareCont": "Stocuri",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": "B1"
+  },
+  {
+    "Id": 351,
+    "Nume": "Materii şi materiale aflate la terţi",
+    "IncadrareCont": "Stocuri",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": "B1"
+  },
+  {
+    "Id": 354,
+    "Nume": "Produse aflate la terţi",
+    "IncadrareCont": "Stocuri",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": "B1"
+  },
+  {
+    "Id": 356,
+    "Nume": "Active biologice de natura stocurilor aflate la terţi",
+    "IncadrareCont": "Stocuri",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": "B1"
+  },
+  {
+    "Id": 357,
+    "Nume": "Mărfuri aflate la terţi",
+    "IncadrareCont": "Stocuri",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": "B1"
+  },
+  {
+    "Id": 358,
+    "Nume": "Ambalaje aflate la terţi",
+    "IncadrareCont": "Stocuri",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": "B1"
+  },
+  {
+    "Id": 36,
+    "Nume": "Active biologice de natura stocurilor",
+    "IncadrareCont": "Stocuri",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": "B1"
+  },
+  {
+    "Id": 361,
+    "Nume": "Active biologice de natura stocurilor",
+    "IncadrareCont": "Stocuri",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": "B1"
+  },
+  {
+    "Id": 368,
+    "Nume": "Diferenţe de preţ la active biologice de natura stocurilor",
+    "IncadrareCont": "Stocuri",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": "B1"
+  },
+  {
+    "Id": 37,
+    "Nume": "Mărfuri",
+    "IncadrareCont": "Stocuri",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": "B1"
+  },
+  {
+    "Id": 371,
+    "Nume": "Mărfuri",
+    "IncadrareCont": "Stocuri",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": "B1"
+  },
+  {
+    "Id": 378,
+    "Nume": "Diferenţe de preţ la mărfuri",
+    "IncadrareCont": "Stocuri",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": "B1"
+  },
+  {
+    "Id": 38,
+    "Nume": "Ambalaje",
+    "IncadrareCont": "Stocuri",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": "B1"
+  },
+  {
+    "Id": 381,
+    "Nume": "Ambalaje",
+    "IncadrareCont": "Stocuri",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": "B1"
+  },
+  {
+    "Id": 388,
+    "Nume": "Diferenţe de preţ la ambalaje",
+    "IncadrareCont": "Stocuri",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": "B1"
+  },
+  {
+    "Id": 39,
+    "Nume": "Ajustări pentru deprecierea stocurilor şi producţiei în curs de execuţie",
+    "IncadrareCont": "Stocuri",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "AjDepr",
+    "Intrari": "",
+    "Bilant": "B1"
+  },
+  {
+    "Id": 391,
+    "Nume": "Ajustări pentru deprecierea materiilor prime",
+    "IncadrareCont": "Stocuri",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "AjDepr",
+    "Intrari": "",
+    "Bilant": "B1"
+  },
+  {
+    "Id": 392,
+    "Nume": "Ajustări pentru deprecierea materialelor",
+    "IncadrareCont": "Stocuri",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "AjDepr",
+    "Intrari": "",
+    "Bilant": "B1"
+  },
+  {
+    "Id": 3921,
+    "Nume": "Ajustări pentru deprecierea materialelor consumabile",
+    "IncadrareCont": "Stocuri",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "AjDepr",
+    "Intrari": "",
+    "Bilant": "B1"
+  },
+  {
+    "Id": 3922,
+    "Nume": "Ajustări pentru deprecierea materialelor de natura obiectelor de inventar",
+    "IncadrareCont": "Stocuri",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "AjDepr",
+    "Intrari": "",
+    "Bilant": "B1"
+  },
+  {
+    "Id": 393,
+    "Nume": "Ajustări pentru deprecierea producţiei în curs de execuţie",
+    "IncadrareCont": "Stocuri",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "AjDepr",
+    "Intrari": "",
+    "Bilant": "B1"
+  },
+  {
+    "Id": 394,
+    "Nume": "Ajustări pentru deprecierea produselor",
+    "IncadrareCont": "Stocuri",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "AjDepr",
+    "Intrari": "",
+    "Bilant": "B1"
+  },
+  {
+    "Id": 3941,
+    "Nume": "Ajustări pentru deprecierea semifabricatelor",
+    "IncadrareCont": "Stocuri",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "AjDepr",
+    "Intrari": "",
+    "Bilant": "B1"
+  },
+  {
+    "Id": 3945,
+    "Nume": "Ajustări pentru deprecierea produselor finite",
+    "IncadrareCont": "Stocuri",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "AjDepr",
+    "Intrari": "",
+    "Bilant": "B1"
+  },
+  {
+    "Id": 3946,
+    "Nume": "Ajustări pentru deprecierea produselor reziduale",
+    "IncadrareCont": "Stocuri",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "AjDepr",
+    "Intrari": "",
+    "Bilant": "B1"
+  },
+  {
+    "Id": 3947,
+    "Nume": "Ajustări pentru deprecierea produselor agricole",
+    "IncadrareCont": "Stocuri",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "AjDepr",
+    "Intrari": "",
+    "Bilant": "B1"
+  },
+  {
+    "Id": 395,
+    "Nume": "Ajustări pentru deprecierea stocurilor aflate la terţi",
+    "IncadrareCont": "Stocuri",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "AjDepr",
+    "Intrari": "",
+    "Bilant": "B1"
+  },
+  {
+    "Id": 3951,
+    "Nume": "Ajustări pentru deprecierea materiilor şi materialelor aflate la terţi",
+    "IncadrareCont": "Stocuri",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "AjDepr",
+    "Intrari": "",
+    "Bilant": "B1"
+  },
+  {
+    "Id": 3952,
+    "Nume": "Ajustări pentru deprecierea semifabricatelor aflate la terţi",
+    "IncadrareCont": "Stocuri",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "AjDepr",
+    "Intrari": "",
+    "Bilant": "B1"
+  },
+  {
+    "Id": 3953,
+    "Nume": "Ajustări pentru deprecierea produselor finite aflate la terţi",
+    "IncadrareCont": "Stocuri",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "AjDepr",
+    "Intrari": "",
+    "Bilant": "B1"
+  },
+  {
+    "Id": 3954,
+    "Nume": "Ajustări pentru deprecierea produselor reziduale aflate la terţi",
+    "IncadrareCont": "Stocuri",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "AjDepr",
+    "Intrari": "",
+    "Bilant": "B1"
+  },
+  {
+    "Id": 3955,
+    "Nume": "Ajustări pentru deprecierea produselor agricole aflate la terţi",
+    "IncadrareCont": "Stocuri",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "AjDepr",
+    "Intrari": "",
+    "Bilant": "B1"
+  },
+  {
+    "Id": 3956,
+    "Nume": "Ajustări pentru deprecierea activelor biologice de natura stocurilor aflate la terţi",
+    "IncadrareCont": "Stocuri",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "AjDepr",
+    "Intrari": "",
+    "Bilant": "B1"
+  },
+  {
+    "Id": 3957,
+    "Nume": "Ajustări pentru deprecierea mărfurilor aflate la terţi",
+    "IncadrareCont": "Stocuri",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "AjDepr",
+    "Intrari": "",
+    "Bilant": "B1"
+  },
+  {
+    "Id": 3958,
+    "Nume": "Ajustări pentru deprecierea ambalajelor aflate la terţi",
+    "IncadrareCont": "Stocuri",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "AjDepr",
+    "Intrari": "",
+    "Bilant": "B1"
+  },
+  {
+    "Id": 396,
+    "Nume": "Ajustări pentru deprecierea activelor biologice de natura stocurilor",
+    "IncadrareCont": "Stocuri",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "AjDepr",
+    "Intrari": "",
+    "Bilant": "B1"
+  },
+  {
+    "Id": 397,
+    "Nume": "Ajustări pentru deprecierea mărfurilor",
+    "IncadrareCont": "Stocuri",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "AjDepr",
+    "Intrari": "",
+    "Bilant": "B1"
+  },
+  {
+    "Id": 398,
+    "Nume": "Ajustări pentru deprecierea ambalajelor",
+    "IncadrareCont": "Stocuri",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "AjDepr",
+    "Intrari": "",
+    "Bilant": "B1"
+  },
+  {
+    "Id": 40,
+    "Nume": "Furnizori şi conturi asimilate",
+    "IncadrareCont": "Creante+DTS",
+    "CategorieBilant": "DTS",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": "D"
+  },
+  {
+    "Id": 401,
+    "Nume": "Furnizori",
+    "IncadrareCont": "Creante+DTS",
+    "CategorieBilant": "DTS",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": "D"
+  },
+  {
+    "Id": 403,
+    "Nume": "Efecte de plătit",
+    "IncadrareCont": "Creante+DTS",
+    "CategorieBilant": "DTS",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": "D"
+  },
+  {
+    "Id": 404,
+    "Nume": "Furnizori de imobilizări",
+    "IncadrareCont": "Creante+DTS",
+    "CategorieBilant": "DTS",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": "D"
+  },
+  {
+    "Id": 405,
+    "Nume": "Efecte de plătit pentru imobilizări",
+    "IncadrareCont": "Creante+DTS",
+    "CategorieBilant": "DTS",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": "D"
+  },
+  {
+    "Id": 408,
+    "Nume": "Furnizori - facturi nesosite",
+    "IncadrareCont": "Creante+DTS",
+    "CategorieBilant": "DTS",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": "D"
+  },
+  {
+    "Id": 409,
+    "Nume": "Furnizori - debitori",
+    "IncadrareCont": "Creante+DTS",
+    "CategorieBilant": "DTS",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": "D"
+  },
+  {
+    "Id": 4091,
+    "Nume": "Furnizori - debitori pentru cumpărări de bunuri de natura stocurilor",
+    "IncadrareCont": "Creante+DTS",
+    "CategorieBilant": "DTS",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": "D"
+  },
+  {
+    "Id": 4092,
+    "Nume": "Furnizori - debitori pentru prestări de servicii",
+    "IncadrareCont": "Creante+DTS",
+    "CategorieBilant": "DTS",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": "D"
+  },
+  {
+    "Id": 4093,
+    "Nume": "Avansuri acordate pentru imobilizări corporale",
+    "IncadrareCont": "Creante+DTS",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": "A2"
+  },
+  {
+    "Id": 4094,
+    "Nume": "Avansuri acordate pentru imobilizări necorporale",
+    "IncadrareCont": "Creante+DTS",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": "A1"
+  },
+  {
+    "Id": 41,
+    "Nume": "Clienţi şi conturi asimilate",
+    "IncadrareCont": "Creante+DTS",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": "B2"
+  },
+  {
+    "Id": 411,
+    "Nume": "Clienţi",
+    "IncadrareCont": "Creante+DTS",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": "B2"
+  },
+  {
+    "Id": 4111,
+    "Nume": "Clienţi",
+    "IncadrareCont": "Creante+DTS",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": "B2"
+  },
+  {
+    "Id": 4118,
+    "Nume": "Clienţi incerţi sau în litigiu",
+    "IncadrareCont": "Creante+DTS",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": "B2"
+  },
+  {
+    "Id": 413,
+    "Nume": "Efecte de primit de la clienţi",
+    "IncadrareCont": "Creante+DTS",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": "B2"
+  },
+  {
+    "Id": 418,
+    "Nume": "Clienţi - facturi de întocmit",
+    "IncadrareCont": "Creante+DTS",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": "B2"
+  },
+  {
+    "Id": 419,
+    "Nume": "Clienţi - creditori",
+    "IncadrareCont": "Creante+DTS",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": "B2"
+  },
+  {
+    "Id": 42,
+    "Nume": "Personal şi conturi asimilate",
+    "IncadrareCont": "Creante+DTS",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": ""
+  },
+  {
+    "Id": 421,
+    "Nume": "Personal - salarii datorate",
+    "IncadrareCont": "Creante+DTS",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": ""
+  },
+  {
+    "Id": 423,
+    "Nume": "Personal - ajutoare materiale datorate",
+    "IncadrareCont": "Creante+DTS",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": ""
+  },
+  {
+    "Id": 424,
+    "Nume": "Prime reprezentând participarea personalului la profit",
+    "IncadrareCont": "Creante+DTS",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": ""
+  },
+  {
+    "Id": 425,
+    "Nume": "Avansuri acordate personalului",
+    "IncadrareCont": "Creante+DTS",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": ""
+  },
+  {
+    "Id": 426,
+    "Nume": "Drepturi de personal neridicate",
+    "IncadrareCont": "Creante+DTS",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": ""
+  },
+  {
+    "Id": 427,
+    "Nume": "Reţineri din salarii datorate terţilor",
+    "IncadrareCont": "Creante+DTS",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": ""
+  },
+  {
+    "Id": 428,
+    "Nume": "Alte datorii şi creanţe în legătură cu personalul",
+    "IncadrareCont": "Creante+DTS",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": ""
+  },
+  {
+    "Id": 4281,
+    "Nume": "Alte datorii în legătură cu personalul",
+    "IncadrareCont": "Creante+DTS",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": ""
+  },
+  {
+    "Id": 4282,
+    "Nume": "Alte creanţe în legătură cu personalul",
+    "IncadrareCont": "Creante+DTS",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": ""
+  },
+  {
+    "Id": 43,
+    "Nume": "Asigurări sociale, protecţia socială şi conturi asimilate",
+    "IncadrareCont": "Creante+DTS",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": ""
+  },
+  {
+    "Id": 431,
+    "Nume": "Asigurări sociale",
+    "IncadrareCont": "Creante+DTS",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": ""
+  },
+  {
+    "Id": 4311,
+    "Nume": "Contribuţia unităţii la asigurările sociale",
+    "IncadrareCont": "Creante+DTS",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": ""
+  },
+  {
+    "Id": 4312,
+    "Nume": "Contribuţia personalului la asigurările sociale",
+    "IncadrareCont": "Creante+DTS",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": ""
+  },
+  {
+    "Id": 4313,
+    "Nume": "Contribuţia angajatorului pentru asigurările sociale de sănătate",
+    "IncadrareCont": "Creante+DTS",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": ""
+  },
+  {
+    "Id": 4314,
+    "Nume": "Contribuţia angajaţilor pentru asigurările sociale de sănătate",
+    "IncadrareCont": "Creante+DTS",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": ""
+  },
+  {
+    "Id": 4315,
+    "Nume": "Contribuţia de asigurări sociale",
+    "IncadrareCont": "Creante+DTS",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": ""
+  },
+  {
+    "Id": 4316,
+    "Nume": "Contribuţia de asigurări sociale de sănătate",
+    "IncadrareCont": "Creante+DTS",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": ""
+  },
+  {
+    "Id": 4318,
+    "Nume": "Alte contribuţii pentru asigurările sociale de sănătate",
+    "IncadrareCont": "Creante+DTS",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": ""
+  },
+  {
+    "Id": 436,
+    "Nume": "Contribuția asiguratorie pentru muncă",
+    "IncadrareCont": "Creante+DTS",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": ""
+  },
+  {
+    "Id": 437,
+    "Nume": "Ajutor de şomaj",
+    "IncadrareCont": "Creante+DTS",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": ""
+  },
+  {
+    "Id": 4371,
+    "Nume": "Contribuţia unităţii la fondul de şomaj",
+    "IncadrareCont": "Creante+DTS",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": ""
+  },
+  {
+    "Id": 4372,
+    "Nume": "Contribuţia personalului la fondul de şomaj",
+    "IncadrareCont": "Creante+DTS",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": ""
+  },
+  {
+    "Id": 438,
+    "Nume": "Alte datorii şi creanţe sociale",
+    "IncadrareCont": "Creante+DTS",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": ""
+  },
+  {
+    "Id": 4381,
+    "Nume": "Alte datorii sociale",
+    "IncadrareCont": "Creante+DTS",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": ""
+  },
+  {
+    "Id": 4382,
+    "Nume": "Alte creanţe sociale",
+    "IncadrareCont": "Creante+DTS",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": ""
+  },
+  {
+    "Id": 44,
+    "Nume": "Bugetul statului, fonduri speciale şi conturi asimilate",
+    "IncadrareCont": "Creante+DTS",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": ""
+  },
+  {
+    "Id": 441,
+    "Nume": "Impozitul pe profit şi alte impozite",
+    "IncadrareCont": "Creante+DTS",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": ""
+  },
+  {
+    "Id": 4411,
+    "Nume": "Impozitul pe profit",
+    "IncadrareCont": "Creante+DTS",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": ""
+  },
+  {
+    "Id": 4415,
+    "Nume": "Impozitul specific unor activităţi",
+    "IncadrareCont": "Creante+DTS",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": ""
+  },
+  {
+    "Id": 4418,
+    "Nume": "Impozitul pe venit",
+    "IncadrareCont": "Creante+DTS",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": ""
+  },
+  {
+    "Id": 442,
+    "Nume": "Taxa pe valoarea adăugată",
+    "IncadrareCont": "Creante+DTS",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": ""
+  },
+  {
+    "Id": 4423,
+    "Nume": "TVA de plată",
+    "IncadrareCont": "Creante+DTS",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": ""
+  },
+  {
+    "Id": 4424,
+    "Nume": "TVA de recuperat",
+    "IncadrareCont": "Creante+DTS",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": ""
+  },
+  {
+    "Id": 4426,
+    "Nume": "TVA deductibilă",
+    "IncadrareCont": "Creante+DTS",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": ""
+  },
+  {
+    "Id": 4427,
+    "Nume": "TVA colectată",
+    "IncadrareCont": "Creante+DTS",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": ""
+  },
+  {
+    "Id": 4428,
+    "Nume": "TVA neexigibilă",
+    "IncadrareCont": "Creante+DTS",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": ""
+  },
+  {
+    "Id": 444,
+    "Nume": "Impozitul pe venituri de natura salariilor",
+    "IncadrareCont": "Creante+DTS",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": ""
+  },
+  {
+    "Id": 445,
+    "Nume": "Subvenţii",
+    "IncadrareCont": "Creante+DTS",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": ""
+  },
+  {
+    "Id": 4451,
+    "Nume": "Subvenţii guvernamentale",
+    "IncadrareCont": "Creante+DTS",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": ""
+  },
+  {
+    "Id": 4452,
+    "Nume": "Împrumuturi nerambursabile cu caracter de subvenţii",
+    "IncadrareCont": "Creante+DTS",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": ""
+  },
+  {
+    "Id": 4458,
+    "Nume": "Alte sume primite cu caracter de subvenţii",
+    "IncadrareCont": "Creante+DTS",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": ""
+  },
+  {
+    "Id": 446,
+    "Nume": "Alte impozite, taxe şi vărsăminte asimilate",
+    "IncadrareCont": "Creante+DTS",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": ""
+  },
+  {
+    "Id": 447,
+    "Nume": "Fonduri speciale - taxe şi vărsăminte asimilate",
+    "IncadrareCont": "Creante+DTS",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": ""
+  },
+  {
+    "Id": 448,
+    "Nume": "Alte datorii şi creanţe cu bugetul statului",
+    "IncadrareCont": "Creante+DTS",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": ""
+  },
+  {
+    "Id": 4481,
+    "Nume": "Alte datorii faţă de bugetul statului",
+    "IncadrareCont": "Creante+DTS",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": ""
+  },
+  {
+    "Id": 4482,
+    "Nume": "Alte creanţe privind bugetul statului",
+    "IncadrareCont": "Creante+DTS",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": ""
+  },
+  {
+    "Id": 45,
+    "Nume": "Grup şi acţionari/asociaţi",
+    "IncadrareCont": "Creante+DTS",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": ""
+  },
+  {
+    "Id": 451,
+    "Nume": "Decontări între entităţile afiliate",
+    "IncadrareCont": "Creante+DTS",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": ""
+  },
+  {
+    "Id": 4511,
+    "Nume": "Decontări între entităţile afiliate",
+    "IncadrareCont": "Creante+DTS",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": ""
+  },
+  {
+    "Id": 4518,
+    "Nume": "Dobânzi aferente decontărilor între entităţile afiliate",
+    "IncadrareCont": "Creante+DTS",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": ""
+  },
+  {
+    "Id": 453,
+    "Nume": "Decontări cu entităţile asociate şi entităţile controlate în comun",
+    "IncadrareCont": "Creante+DTS",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": ""
+  },
+  {
+    "Id": 4531,
+    "Nume": "Decontări cu entităţile asociate şi entităţile controlate",
+    "IncadrareCont": "Creante+DTS",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": ""
+  },
+  {
+    "Id": 4538,
+    "Nume": "Dobânzi aferente decontărilor cu entităţile asociate şi entităţile controlate în comun",
+    "IncadrareCont": "Creante+DTS",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": ""
+  },
+  {
+    "Id": 455,
+    "Nume": "Sume datorate acţionarilor/asociaţilor",
+    "IncadrareCont": "Creante+DTS",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": ""
+  },
+  {
+    "Id": 4551,
+    "Nume": "Acţionari/Asociaţi - conturi curente",
+    "IncadrareCont": "Creante+DTS",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": ""
+  },
+  {
+    "Id": 4558,
+    "Nume": "Acţionari/Asociaţi - dobânzi la conturi curente",
+    "IncadrareCont": "Creante+DTS",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": ""
+  },
+  {
+    "Id": 456,
+    "Nume": "Decontări cu acţionarii/asociaţii privind capitalul",
+    "IncadrareCont": "Creante+DTS",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": ""
+  },
+  {
+    "Id": 457,
+    "Nume": "Dividende de plată",
+    "IncadrareCont": "Creante+DTS",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": ""
+  },
+  {
+    "Id": 458,
+    "Nume": "Decontări din operaţiuni în participaţie",
+    "IncadrareCont": "Creante+DTS",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": ""
+  },
+  {
+    "Id": 4581,
+    "Nume": "Decontări din operaţiuni în participaţie - pasiv",
+    "IncadrareCont": "Creante+DTS",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": ""
+  },
+  {
+    "Id": 4582,
+    "Nume": "Decontări din operaţiuni în participaţie - activ",
+    "IncadrareCont": "Creante+DTS",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": ""
+  },
+  {
+    "Id": 46,
+    "Nume": "Debitori şi creditori diverşi",
+    "IncadrareCont": "Creante+DTS",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": ""
+  },
+  {
+    "Id": 461,
+    "Nume": "Debitori diverşi",
+    "IncadrareCont": "Creante+DTS",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": ""
+  },
+  {
+    "Id": 462,
+    "Nume": "Creditori diverşi",
+    "IncadrareCont": "Creante+DTS",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": ""
+  },
+  {
+    "Id": 466,
+    "Nume": "Decontări din operaţiuni de fiducie",
+    "IncadrareCont": "Creante+DTS",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": ""
+  },
+  {
+    "Id": 4661,
+    "Nume": "Datorii din operaţiuni de fiducie",
+    "IncadrareCont": "Creante+DTS",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": ""
+  },
+  {
+    "Id": 4662,
+    "Nume": "Creanţe din operaţiuni de fiducie",
+    "IncadrareCont": "Creante+DTS",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": ""
+  },
+  {
+    "Id": 47,
+    "Nume": "Conturi de subvenţii, regularizare şi asimilate",
+    "IncadrareCont": "Creante+DTS",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": ""
+  },
+  {
+    "Id": 471,
+    "Nume": "Cheltuieli înregistrate în avans",
+    "IncadrareCont": "Creante+DTS",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": ""
+  },
+  {
+    "Id": 472,
+    "Nume": "Venituri înregistrate în avans",
+    "IncadrareCont": "Creante+DTS",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": ""
+  },
+  {
+    "Id": 473,
+    "Nume": "Decontări din operaţiuni în curs de clarificare",
+    "IncadrareCont": "Creante+DTS",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": ""
+  },
+  {
+    "Id": 475,
+    "Nume": "Subvenţii pentru investiţii",
+    "IncadrareCont": "Creante+DTS",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": ""
+  },
+  {
+    "Id": 4751,
+    "Nume": "Subvenţii guvernamentale pentru investiţii",
+    "IncadrareCont": "Creante+DTS",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": ""
+  },
+  {
+    "Id": 4752,
+    "Nume": "Împrumuturi nerambursabile cu caracter de subvenţii pentru investiţii",
+    "IncadrareCont": "Creante+DTS",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": ""
+  },
+  {
+    "Id": 4753,
+    "Nume": "Donaţii pentru investiţii",
+    "IncadrareCont": "Creante+DTS",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": ""
+  },
+  {
+    "Id": 4754,
+    "Nume": "Plusuri de inventar de natura imobilizărilor",
+    "IncadrareCont": "Creante+DTS",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": ""
+  },
+  {
+    "Id": 4758,
+    "Nume": "Alte sume primite cu caracter de subvenţii pentru investiţii",
+    "IncadrareCont": "Creante+DTS",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": ""
+  },
+  {
+    "Id": 478,
+    "Nume": "Venituri în avans aferente activelor primite prin transfer de la clienţi",
+    "IncadrareCont": "Creante+DTS",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": ""
+  },
+  {
+    "Id": 48,
+    "Nume": "Decontări în cadrul unităţii",
+    "IncadrareCont": "Creante+DTS",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": ""
+  },
+  {
+    "Id": 481,
+    "Nume": "Decontări între unitate şi subunităţi",
+    "IncadrareCont": "Creante+DTS",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": ""
+  },
+  {
+    "Id": 482,
+    "Nume": "Decontări între subunităţi",
+    "IncadrareCont": "Creante+DTS",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": ""
+  },
+  {
+    "Id": 49,
+    "Nume": "Ajustări pentru deprecierea creanţelor",
+    "IncadrareCont": "Creante+DTS",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "AjDepr",
+    "Intrari": "",
+    "Bilant": ""
+  },
+  {
+    "Id": 491,
+    "Nume": "Ajustări pentru deprecierea creanţelor - clienţi",
+    "IncadrareCont": "Creante+DTS",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "AjDepr",
+    "Intrari": "",
+    "Bilant": ""
+  },
+  {
+    "Id": 495,
+    "Nume": "Ajustări pentru deprecierea creanţelor - decontări în cadrul grupului şi cu acţionarii/asociaţii",
+    "IncadrareCont": "Creante+DTS",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "AjDepr",
+    "Intrari": "",
+    "Bilant": ""
+  },
+  {
+    "Id": 496,
+    "Nume": "Ajustări pentru deprecierea creanţelor - debitori diverşi",
+    "IncadrareCont": "Creante+DTS",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "AjDepr",
+    "Intrari": "",
+    "Bilant": ""
+  },
+  {
+    "Id": 50,
+    "Nume": "Investiţii pe termen scurt",
+    "IncadrareCont": "InvFinTS+CasaSiConturi",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": "B3"
+  },
+  {
+    "Id": 501,
+    "Nume": "Acţiuni deţinute la entităţile afiliate",
+    "IncadrareCont": "InvFinTS+CasaSiConturi",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": "B3"
+  },
+  {
+    "Id": 505,
+    "Nume": "Obligaţiuni emise şi răscumpărate",
+    "IncadrareCont": "InvFinTS+CasaSiConturi",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": "B3"
+  },
+  {
+    "Id": 506,
+    "Nume": "Obligaţiuni",
+    "IncadrareCont": "InvFinTS+CasaSiConturi",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": "B3"
+  },
+  {
+    "Id": 507,
+    "Nume": "Certificate verzi primite",
+    "IncadrareCont": "InvFinTS+CasaSiConturi",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": "B3"
+  },
+  {
+    "Id": 508,
+    "Nume": "Alte investiţii pe termen scurt şi creanţe asimilate",
+    "IncadrareCont": "InvFinTS+CasaSiConturi",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": "B3"
+  },
+  {
+    "Id": 5081,
+    "Nume": "Alte titluri de plasament",
+    "IncadrareCont": "InvFinTS+CasaSiConturi",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": "B3"
+  },
+  {
+    "Id": 5088,
+    "Nume": "Dobânzi la obligaţiuni şi titluri de plasament",
+    "IncadrareCont": "InvFinTS+CasaSiConturi",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": "B3"
+  },
+  {
+    "Id": 509,
+    "Nume": "Vărsăminte de efectuat pentru investiţiile pe termen scurt",
+    "IncadrareCont": "InvFinTS+CasaSiConturi",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": "B3"
+  },
+  {
+    "Id": 5091,
+    "Nume": "Vărsăminte de efectuat pentru acţiunile deţinute la entităţile afiliate",
+    "IncadrareCont": "InvFinTS+CasaSiConturi",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": "B3"
+  },
+  {
+    "Id": 5092,
+    "Nume": "Vărsăminte de efectuat pentru alte investiţii pe termen scurt",
+    "IncadrareCont": "InvFinTS+CasaSiConturi",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": "B3"
+  },
+  {
+    "Id": 51,
+    "Nume": "Conturi la bănci",
+    "IncadrareCont": "InvFinTS+CasaSiConturi",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": "B4"
+  },
+  {
+    "Id": 511,
+    "Nume": "Valori de încasat",
+    "IncadrareCont": "InvFinTS+CasaSiConturi",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": "B4"
+  },
+  {
+    "Id": 5112,
+    "Nume": "Cecuri de încasat",
+    "IncadrareCont": "InvFinTS+CasaSiConturi",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": "B4"
+  },
+  {
+    "Id": 5113,
+    "Nume": "Efecte de încasat",
+    "IncadrareCont": "InvFinTS+CasaSiConturi",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": "B4"
+  },
+  {
+    "Id": 5114,
+    "Nume": "Efecte remise spre scontare",
+    "IncadrareCont": "InvFinTS+CasaSiConturi",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": "B4"
+  },
+  {
+    "Id": 512,
+    "Nume": "Conturi curente la bănci",
+    "IncadrareCont": "InvFinTS+CasaSiConturi",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": "B4"
+  },
+  {
+    "Id": 5121,
+    "Nume": "Conturi la bănci în lei",
+    "IncadrareCont": "InvFinTS+CasaSiConturi",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": "B4"
+  },
+  {
+    "Id": 5124,
+    "Nume": "Conturi la bănci în valută",
+    "IncadrareCont": "InvFinTS+CasaSiConturi",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": "B4"
+  },
+  {
+    "Id": 5125,
+    "Nume": "Sume în curs de decontare",
+    "IncadrareCont": "InvFinTS+CasaSiConturi",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": "B4"
+  },
+  {
+    "Id": 5126,
+    "Nume": "Conturi la bănci în lei - TVA defalcat",
+    "IncadrareCont": "InvFinTS+CasaSiConturi",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": "B4"
+  },
+  {
+    "Id": 5127,
+    "Nume": "Conturi la bănci în valută - TVA defalcat",
+    "IncadrareCont": "InvFinTS+CasaSiConturi",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": "B4"
+  },
+  {
+    "Id": 518,
+    "Nume": "Dobânzi",
+    "IncadrareCont": "InvFinTS+CasaSiConturi",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": "B4"
+  },
+  {
+    "Id": 5186,
+    "Nume": "Dobânzi de plătit",
+    "IncadrareCont": "InvFinTS+CasaSiConturi",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": "B4"
+  },
+  {
+    "Id": 5187,
+    "Nume": "Dobânzi de încasat",
+    "IncadrareCont": "InvFinTS+CasaSiConturi",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": "B4"
+  },
+  {
+    "Id": 519,
+    "Nume": "Credite bancare pe termen scurt",
+    "IncadrareCont": "InvFinTS+CasaSiConturi",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": "B4"
+  },
+  {
+    "Id": 5191,
+    "Nume": "Credite bancare pe termen scurt",
+    "IncadrareCont": "InvFinTS+CasaSiConturi",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": "B4"
+  },
+  {
+    "Id": 5192,
+    "Nume": "Credite bancare pe termen scurt nerambursate la scadenţă",
+    "IncadrareCont": "InvFinTS+CasaSiConturi",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": "B4"
+  },
+  {
+    "Id": 5193,
+    "Nume": "Credite externe guvernamentale",
+    "IncadrareCont": "InvFinTS+CasaSiConturi",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": "B4"
+  },
+  {
+    "Id": 5194,
+    "Nume": "Credite externe garantate de stat",
+    "IncadrareCont": "InvFinTS+CasaSiConturi",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": "B4"
+  },
+  {
+    "Id": 5195,
+    "Nume": "Credite externe garantate de bănci",
+    "IncadrareCont": "InvFinTS+CasaSiConturi",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": "B4"
+  },
+  {
+    "Id": 5196,
+    "Nume": "Credite de la Trezoreria Statului",
+    "IncadrareCont": "InvFinTS+CasaSiConturi",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": "B4"
+  },
+  {
+    "Id": 5197,
+    "Nume": "Credite interne garantate de stat",
+    "IncadrareCont": "InvFinTS+CasaSiConturi",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": "B4"
+  },
+  {
+    "Id": 5198,
+    "Nume": "Dobânzi aferente creditelor bancare pe termen scurt",
+    "IncadrareCont": "InvFinTS+CasaSiConturi",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": "B4"
+  },
+  {
+    "Id": 53,
+    "Nume": "Casa",
+    "IncadrareCont": "InvFinTS+CasaSiConturi",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": "B4"
+  },
+  {
+    "Id": 531,
+    "Nume": "Casa",
+    "IncadrareCont": "InvFinTS+CasaSiConturi",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": "B4"
+  },
+  {
+    "Id": 5311,
+    "Nume": "Casa în lei",
+    "IncadrareCont": "InvFinTS+CasaSiConturi",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": "B4"
+  },
+  {
+    "Id": 5314,
+    "Nume": "Casa în valută",
+    "IncadrareCont": "InvFinTS+CasaSiConturi",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": "B4"
+  },
+  {
+    "Id": 532,
+    "Nume": "Alte valori",
+    "IncadrareCont": "InvFinTS+CasaSiConturi",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": "B4"
+  },
+  {
+    "Id": 5321,
+    "Nume": "Timbre fiscale şi poştale",
+    "IncadrareCont": "InvFinTS+CasaSiConturi",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": "B4"
+  },
+  {
+    "Id": 5322,
+    "Nume": "Bilete de tratament şi odihnă",
+    "IncadrareCont": "InvFinTS+CasaSiConturi",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": "B4"
+  },
+  {
+    "Id": 5323,
+    "Nume": "Tichete şi bilete de călătorie",
+    "IncadrareCont": "InvFinTS+CasaSiConturi",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": "B4"
+  },
+  {
+    "Id": 5328,
+    "Nume": "Alte valori",
+    "IncadrareCont": "InvFinTS+CasaSiConturi",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": "B4"
+  },
+  {
+    "Id": 54,
+    "Nume": "Acreditive",
+    "IncadrareCont": "InvFinTS+CasaSiConturi",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": "B4"
+  },
+  {
+    "Id": 541,
+    "Nume": "Acreditive",
+    "IncadrareCont": "InvFinTS+CasaSiConturi",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": "B4"
+  },
+  {
+    "Id": 5411,
+    "Nume": "Acreditive în lei",
+    "IncadrareCont": "InvFinTS+CasaSiConturi",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": "B4"
+  },
+  {
+    "Id": 5414,
+    "Nume": "Acreditive în valută",
+    "IncadrareCont": "InvFinTS+CasaSiConturi",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": "B4"
+  },
+  {
+    "Id": 542,
+    "Nume": "Avansuri de trezorerie",
+    "IncadrareCont": "InvFinTS+CasaSiConturi",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": "B4"
+  },
+  {
+    "Id": 58,
+    "Nume": "Viramente interne",
+    "IncadrareCont": "InvFinTS+CasaSiConturi",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": "B4"
+  },
+  {
+    "Id": 581,
+    "Nume": "Viramente interne",
+    "IncadrareCont": "InvFinTS+CasaSiConturi",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": "B4"
+  },
+  {
+    "Id": 59,
+    "Nume": "Ajustări pentru pierderea de valoare a conturilor de trezorerie",
+    "IncadrareCont": "InvFinTS+CasaSiConturi",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "AjDepr",
+    "Intrari": "",
+    "Bilant": "B4"
+  },
+  {
+    "Id": 591,
+    "Nume": "Ajustări pentru pierderea de valoare a acţiunilor deţinute la entităţile afiliate",
+    "IncadrareCont": "InvFinTS+CasaSiConturi",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "AjDepr",
+    "Intrari": "",
+    "Bilant": "B4"
+  },
+  {
+    "Id": 595,
+    "Nume": "Ajustări pentru pierderea de valoare a obligaţiunilor emise şi răscumpărate",
+    "IncadrareCont": "InvFinTS+CasaSiConturi",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "AjDepr",
+    "Intrari": "",
+    "Bilant": "B4"
+  },
+  {
+    "Id": 596,
+    "Nume": "Ajustări pentru pierderea de valoare a obligaţiunilor",
+    "IncadrareCont": "InvFinTS+CasaSiConturi",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "AjDepr",
+    "Intrari": "",
+    "Bilant": "B4"
+  },
+  {
+    "Id": 598,
+    "Nume": "Ajustări pentru pierderea de valoare a altor investiţii pe termen scurt şi creanţe asimilate",
+    "IncadrareCont": "InvFinTS+CasaSiConturi",
+    "CategorieBilant": "AC",
+    "SubcategorieBilant": "AjDepr",
+    "Intrari": "",
+    "Bilant": "B4"
+  },
+  {
+    "Id": 60,
+    "Nume": "Cheltuieli privind stocurile",
+    "IncadrareCont": "Cheltuieli",
+    "CategorieBilant": "CPrPd",
+    "SubcategorieBilant": "ChEx",
+    "Intrari": "",
+    "Bilant": 2
+  },
+  {
+    "Id": 601,
+    "Nume": "Cheltuieli cu materiile prime",
+    "IncadrareCont": "Cheltuieli",
+    "CategorieBilant": "CPrPd",
+    "SubcategorieBilant": "ChEx",
+    "Intrari": "",
+    "Bilant": 2
+  },
+  {
+    "Id": 602,
+    "Nume": "Cheltuieli cu materialele consumabile",
+    "IncadrareCont": "Cheltuieli",
+    "CategorieBilant": "CPrPd",
+    "SubcategorieBilant": "ChEx",
+    "Intrari": "",
+    "Bilant": 2
+  },
+  {
+    "Id": 6021,
+    "Nume": "Cheltuieli cu materialele auxiliare",
+    "IncadrareCont": "Cheltuieli",
+    "CategorieBilant": "CPrPd",
+    "SubcategorieBilant": "ChEx",
+    "Intrari": "",
+    "Bilant": 2
+  },
+  {
+    "Id": 6022,
+    "Nume": "Cheltuieli privind combustibilii",
+    "IncadrareCont": "Cheltuieli",
+    "CategorieBilant": "CPrPd",
+    "SubcategorieBilant": "ChEx",
+    "Intrari": "",
+    "Bilant": 2
+  },
+  {
+    "Id": 6023,
+    "Nume": "Cheltuieli privind materialele pentru ambalat",
+    "IncadrareCont": "Cheltuieli",
+    "CategorieBilant": "CPrPd",
+    "SubcategorieBilant": "ChEx",
+    "Intrari": "",
+    "Bilant": 2
+  },
+  {
+    "Id": 6024,
+    "Nume": "Cheltuieli privind piesele de schimb",
+    "IncadrareCont": "Cheltuieli",
+    "CategorieBilant": "CPrPd",
+    "SubcategorieBilant": "ChEx",
+    "Intrari": "",
+    "Bilant": 2
+  },
+  {
+    "Id": 6025,
+    "Nume": "Cheltuieli privind seminţele şi materialele de plantat",
+    "IncadrareCont": "Cheltuieli",
+    "CategorieBilant": "CPrPd",
+    "SubcategorieBilant": "ChEx",
+    "Intrari": "",
+    "Bilant": 2
+  },
+  {
+    "Id": 6026,
+    "Nume": "Cheltuieli privind furajele",
+    "IncadrareCont": "Cheltuieli",
+    "CategorieBilant": "CPrPd",
+    "SubcategorieBilant": "ChEx",
+    "Intrari": "",
+    "Bilant": 2
+  },
+  {
+    "Id": 6028,
+    "Nume": "Cheltuieli privind alte materiale consumabile",
+    "IncadrareCont": "Cheltuieli",
+    "CategorieBilant": "CPrPd",
+    "SubcategorieBilant": "ChEx",
+    "Intrari": "",
+    "Bilant": 2
+  },
+  {
+    "Id": 603,
+    "Nume": "Cheltuieli privind materialele de natura obiectelor de inventar",
+    "IncadrareCont": "Cheltuieli",
+    "CategorieBilant": "CPrPd",
+    "SubcategorieBilant": "ChEx",
+    "Intrari": "",
+    "Bilant": 2
+  },
+  {
+    "Id": 604,
+    "Nume": "Cheltuieli privind materialele nestocate",
+    "IncadrareCont": "Cheltuieli",
+    "CategorieBilant": "CPrPd",
+    "SubcategorieBilant": "ChEx",
+    "Intrari": "",
+    "Bilant": 2
+  },
+  {
+    "Id": 605,
+    "Nume": "Cheltuieli cu energia si apa",
+    "IncadrareCont": "Cheltuieli",
+    "CategorieBilant": "CPrPd",
+    "SubcategorieBilant": "ChEx",
+    "Intrari": "",
+    "Bilant": 2
+  },
+  {
+    "Id": 6051,
+    "Nume": "Cheltuieli privind consumul de energie",
+    "IncadrareCont": "Cheltuieli",
+    "CategorieBilant": "CPrPd",
+    "SubcategorieBilant": "ChEx",
+    "Intrari": "",
+    "Bilant": 2
+  },
+  {
+    "Id": 6052,
+    "Nume": "Cheltuieli privind consumul de apa",
+    "IncadrareCont": "Cheltuieli",
+    "CategorieBilant": "CPrPd",
+    "SubcategorieBilant": "ChEx",
+    "Intrari": "",
+    "Bilant": 2
+  },
+  {
+    "Id": 606,
+    "Nume": "Cheltuieli privind activele biologice de natura stocurilor",
+    "IncadrareCont": "Cheltuieli",
+    "CategorieBilant": "CPrPd",
+    "SubcategorieBilant": "ChEx",
+    "Intrari": "",
+    "Bilant": 2
+  },
+  {
+    "Id": 607,
+    "Nume": "Cheltuieli privind mărfurile",
+    "IncadrareCont": "Cheltuieli",
+    "CategorieBilant": "CPrPd",
+    "SubcategorieBilant": "ChEx",
+    "Intrari": "",
+    "Bilant": 2
+  },
+  {
+    "Id": 608,
+    "Nume": "Cheltuieli privind ambalajele",
+    "IncadrareCont": "Cheltuieli",
+    "CategorieBilant": "CPrPd",
+    "SubcategorieBilant": "ChEx",
+    "Intrari": "",
+    "Bilant": 2
+  },
+  {
+    "Id": 609,
+    "Nume": "Reduceri comerciale primite",
+    "IncadrareCont": "Cheltuieli",
+    "CategorieBilant": "CPrPd",
+    "SubcategorieBilant": "ChEx",
+    "Intrari": "",
+    "Bilant": 2
+  },
+  {
+    "Id": 61,
+    "Nume": "Cheltuieli cu serviciile executate de terţi",
+    "IncadrareCont": "Cheltuieli",
+    "CategorieBilant": "CPrPd",
+    "SubcategorieBilant": "ChEx",
+    "Intrari": "",
+    "Bilant": 2
+  },
+  {
+    "Id": 611,
+    "Nume": "Cheltuieli cu întreţinerea şi reparaţiile",
+    "IncadrareCont": "Cheltuieli",
+    "CategorieBilant": "CPrPd",
+    "SubcategorieBilant": "ChEx",
+    "Intrari": "",
+    "Bilant": 2
+  },
+  {
+    "Id": 612,
+    "Nume": "Cheltuieli cu redevenţele, locaţiile de gestiune şi chiriile",
+    "IncadrareCont": "Cheltuieli",
+    "CategorieBilant": "CPrPd",
+    "SubcategorieBilant": "ChEx",
+    "Intrari": "",
+    "Bilant": 2
+  },
+  {
+    "Id": 613,
+    "Nume": "Cheltuieli cu primele de asigurare",
+    "IncadrareCont": "Cheltuieli",
+    "CategorieBilant": "CPrPd",
+    "SubcategorieBilant": "ChEx",
+    "Intrari": "",
+    "Bilant": 2
+  },
+  {
+    "Id": 614,
+    "Nume": "Cheltuieli cu studiile şi cercetările",
+    "IncadrareCont": "Cheltuieli",
+    "CategorieBilant": "CPrPd",
+    "SubcategorieBilant": "ChEx",
+    "Intrari": "",
+    "Bilant": 2
+  },
+  {
+    "Id": 615,
+    "Nume": "Cheltuieli cu pregătirea personalului",
+    "IncadrareCont": "Cheltuieli",
+    "CategorieBilant": "CPrPd",
+    "SubcategorieBilant": "ChEx",
+    "Intrari": "",
+    "Bilant": 2
+  },
+  {
+    "Id": 62,
+    "Nume": "Cheltuieli cu alte servicii executate de terţi",
+    "IncadrareCont": "Cheltuieli",
+    "CategorieBilant": "CPrPd",
+    "SubcategorieBilant": "ChEx",
+    "Intrari": "",
+    "Bilant": 2
+  },
+  {
+    "Id": 621,
+    "Nume": "Cheltuieli cu colaboratorii",
+    "IncadrareCont": "Cheltuieli",
+    "CategorieBilant": "CPrPd",
+    "SubcategorieBilant": "ChEx",
+    "Intrari": "",
+    "Bilant": 2
+  },
+  {
+    "Id": 622,
+    "Nume": "Cheltuieli privind comisioanele şi onorariile",
+    "IncadrareCont": "Cheltuieli",
+    "CategorieBilant": "CPrPd",
+    "SubcategorieBilant": "ChEx",
+    "Intrari": "",
+    "Bilant": 2
+  },
+  {
+    "Id": 623,
+    "Nume": "Cheltuieli de protocol, reclamă şi publicitate",
+    "IncadrareCont": "Cheltuieli",
+    "CategorieBilant": "CPrPd",
+    "SubcategorieBilant": "ChEx",
+    "Intrari": "",
+    "Bilant": 2
+  },
+  {
+    "Id": 6231,
+    "Nume": "Cheltuieli de protocol",
+    "IncadrareCont": "Cheltuieli",
+    "CategorieBilant": "CPrPd",
+    "SubcategorieBilant": "ChEx",
+    "Intrari": "",
+    "Bilant": 2
+  },
+  {
+    "Id": 6232,
+    "Nume": "Cheltuieli de reclamă şi publicitate",
+    "IncadrareCont": "Cheltuieli",
+    "CategorieBilant": "CPrPd",
+    "SubcategorieBilant": "ChEx",
+    "Intrari": "",
+    "Bilant": 2
+  },
+  {
+    "Id": 624,
+    "Nume": "Cheltuieli cu transportul de bunuri şi personal",
+    "IncadrareCont": "Cheltuieli",
+    "CategorieBilant": "CPrPd",
+    "SubcategorieBilant": "ChEx",
+    "Intrari": "",
+    "Bilant": 2
+  },
+  {
+    "Id": 625,
+    "Nume": "Cheltuieli cu deplasări, detaşări şi transferări",
+    "IncadrareCont": "Cheltuieli",
+    "CategorieBilant": "CPrPd",
+    "SubcategorieBilant": "ChEx",
+    "Intrari": "",
+    "Bilant": 2
+  },
+  {
+    "Id": 626,
+    "Nume": "Cheltuieli poştale şi taxe de telecomunicaţii",
+    "IncadrareCont": "Cheltuieli",
+    "CategorieBilant": "CPrPd",
+    "SubcategorieBilant": "ChEx",
+    "Intrari": "",
+    "Bilant": 2
+  },
+  {
+    "Id": 627,
+    "Nume": "Cheltuieli cu serviciile bancare şi asimilate",
+    "IncadrareCont": "Cheltuieli",
+    "CategorieBilant": "CPrPd",
+    "SubcategorieBilant": "ChEx",
+    "Intrari": "",
+    "Bilant": 2
+  },
+  {
+    "Id": 628,
+    "Nume": "Alte cheltuieli cu serviciile executate de terţi",
+    "IncadrareCont": "Cheltuieli",
+    "CategorieBilant": "CPrPd",
+    "SubcategorieBilant": "ChEx",
+    "Intrari": "",
+    "Bilant": 2
+  },
+  {
+    "Id": 63,
+    "Nume": "Cheltuieli cu alte impozite, taxe şi vărsăminte asimilate",
+    "IncadrareCont": "Cheltuieli",
+    "CategorieBilant": "CPrPd",
+    "SubcategorieBilant": "ChEx",
+    "Intrari": "",
+    "Bilant": 2
+  },
+  {
+    "Id": 635,
+    "Nume": "Cheltuieli cu alte impozite, taxe şi vărsăminte asimilate",
+    "IncadrareCont": "Cheltuieli",
+    "CategorieBilant": "CPrPd",
+    "SubcategorieBilant": "ChEx",
+    "Intrari": "",
+    "Bilant": 2
+  },
+  {
+    "Id": 64,
+    "Nume": "Cheltuieli cu personalul",
+    "IncadrareCont": "Cheltuieli",
+    "CategorieBilant": "CPrPd",
+    "SubcategorieBilant": "ChEx",
+    "Intrari": "",
+    "Bilant": 2
+  },
+  {
+    "Id": 641,
+    "Nume": "Cheltuieli cu salariile personalului",
+    "IncadrareCont": "Cheltuieli",
+    "CategorieBilant": "CPrPd",
+    "SubcategorieBilant": "ChEx",
+    "Intrari": "",
+    "Bilant": 2
+  },
+  {
+    "Id": 642,
+    "Nume": "Cheltuieli cu avantajele în natură şi tichetele acordate salariaţilor",
+    "IncadrareCont": "Cheltuieli",
+    "CategorieBilant": "CPrPd",
+    "SubcategorieBilant": "ChEx",
+    "Intrari": "",
+    "Bilant": 2
+  },
+  {
+    "Id": 6421,
+    "Nume": "Cheltuieli cu avantajele în natură acordate salariaţilor",
+    "IncadrareCont": "Cheltuieli",
+    "CategorieBilant": "CPrPd",
+    "SubcategorieBilant": "ChEx",
+    "Intrari": "",
+    "Bilant": 2
+  },
+  {
+    "Id": 6422,
+    "Nume": "Cheltuieli cu tichetele acordate salariaţilor",
+    "IncadrareCont": "Cheltuieli",
+    "CategorieBilant": "CPrPd",
+    "SubcategorieBilant": "ChEx",
+    "Intrari": "",
+    "Bilant": 2
+  },
+  {
+    "Id": 643,
+    "Nume": "Cheltuieli cu remunerarea în instrumente de capitaluri proprii",
+    "IncadrareCont": "Cheltuieli",
+    "CategorieBilant": "CPrPd",
+    "SubcategorieBilant": "ChEx",
+    "Intrari": "",
+    "Bilant": 2
+  },
+  {
+    "Id": 644,
+    "Nume": "Cheltuieli cu primele reprezentând participarea personalului la profit",
+    "IncadrareCont": "Cheltuieli",
+    "CategorieBilant": "CPrPd",
+    "SubcategorieBilant": "ChEx",
+    "Intrari": "",
+    "Bilant": 2
+  },
+  {
+    "Id": 645,
+    "Nume": "Cheltuieli privind asigurările şi protecţia socială",
+    "IncadrareCont": "Cheltuieli",
+    "CategorieBilant": "CPrPd",
+    "SubcategorieBilant": "ChEx",
+    "Intrari": "",
+    "Bilant": 2
+  },
+  {
+    "Id": 6451,
+    "Nume": "Cheltuieli privind contribuţia unităţii la asigurările sociale",
+    "IncadrareCont": "Cheltuieli",
+    "CategorieBilant": "CPrPd",
+    "SubcategorieBilant": "ChEx",
+    "Intrari": "",
+    "Bilant": 2
+  },
+  {
+    "Id": 6452,
+    "Nume": "Cheltuieli privind contribuţia unităţii pentru ajutorul de şomaj",
+    "IncadrareCont": "Cheltuieli",
+    "CategorieBilant": "CPrPd",
+    "SubcategorieBilant": "ChEx",
+    "Intrari": "",
+    "Bilant": 2
+  },
+  {
+    "Id": 6453,
+    "Nume": "Cheltuieli privind contribuţia angajatorului pentru asigurările sociale de sănătate",
+    "IncadrareCont": "Cheltuieli",
+    "CategorieBilant": "CPrPd",
+    "SubcategorieBilant": "ChEx",
+    "Intrari": "",
+    "Bilant": 2
+  },
+  {
+    "Id": 6455,
+    "Nume": "Cheltuieli privind contribuţia unităţii la asigurările de viaţă",
+    "IncadrareCont": "Cheltuieli",
+    "CategorieBilant": "CPrPd",
+    "SubcategorieBilant": "ChEx",
+    "Intrari": "",
+    "Bilant": 2
+  },
+  {
+    "Id": 6456,
+    "Nume": "Cheltuieli privind contribuţia unităţii la fondurile de pensii facultative",
+    "IncadrareCont": "Cheltuieli",
+    "CategorieBilant": "CPrPd",
+    "SubcategorieBilant": "ChEx",
+    "Intrari": "",
+    "Bilant": 2
+  },
+  {
+    "Id": 6457,
+    "Nume": "Cheltuieli privind contribuţia unităţii la primele de asigurare voluntară de sănătate",
+    "IncadrareCont": "Cheltuieli",
+    "CategorieBilant": "CPrPd",
+    "SubcategorieBilant": "ChEx",
+    "Intrari": "",
+    "Bilant": 2
+  },
+  {
+    "Id": 6458,
+    "Nume": "Alte cheltuieli privind asigurările şi protecţia socială",
+    "IncadrareCont": "Cheltuieli",
+    "CategorieBilant": "CPrPd",
+    "SubcategorieBilant": "ChEx",
+    "Intrari": "",
+    "Bilant": 2
+  },
+  {
+    "Id": 646,
+    "Nume": "Cheltuieli privind contribuția asiguratorie pentru muncă",
+    "IncadrareCont": "Cheltuieli",
+    "CategorieBilant": "CPrPd",
+    "SubcategorieBilant": "ChEx",
+    "Intrari": "",
+    "Bilant": 2
+  },
+  {
+    "Id": 6461,
+    "Nume": "Cheltuieli privind contribuția asiguratorie pentru muncă pentru munca corespunzatoare salariatilor",
+    "IncadrareCont": "Cheltuieli",
+    "CategorieBilant": "CPrPd",
+    "SubcategorieBilant": "ChEx",
+    "Intrari": "",
+    "Bilant": 2
+  },
+  {
+    "Id": 6462,
+    "Nume": "Cheltuieli privind contribuția asiguratorie pentru muncă pentru munca corespunzatoare altor persoane, decat salariatii",
+    "IncadrareCont": "Cheltuieli",
+    "CategorieBilant": "CPrPd",
+    "SubcategorieBilant": "ChEx",
+    "Intrari": "",
+    "Bilant": 2
+  },
+  {
+    "Id": 65,
+    "Nume": "Alte cheltuieli de exploatare",
+    "IncadrareCont": "Cheltuieli",
+    "CategorieBilant": "CPrPd",
+    "SubcategorieBilant": "ChEx",
+    "Intrari": "",
+    "Bilant": 2
+  },
+  {
+    "Id": 651,
+    "Nume": "Cheltuieli din operaţiuni de fiducie",
+    "IncadrareCont": "Cheltuieli",
+    "CategorieBilant": "CPrPd",
+    "SubcategorieBilant": "ChEx",
+    "Intrari": "",
+    "Bilant": 2
+  },
+  {
+    "Id": 6511,
+    "Nume": "Cheltuieli ocazionate de constituirea fiduciei",
+    "IncadrareCont": "Cheltuieli",
+    "CategorieBilant": "CPrPd",
+    "SubcategorieBilant": "ChEx",
+    "Intrari": "",
+    "Bilant": 2
+  },
+  {
+    "Id": 6512,
+    "Nume": "Cheltuieli din derularea operaţiunilor de fiducie",
+    "IncadrareCont": "Cheltuieli",
+    "CategorieBilant": "CPrPd",
+    "SubcategorieBilant": "ChEx",
+    "Intrari": "",
+    "Bilant": 2
+  },
+  {
+    "Id": 6513,
+    "Nume": "Cheltuieli din lichidarea operaţiunilor de fiducie",
+    "IncadrareCont": "Cheltuieli",
+    "CategorieBilant": "CPrPd",
+    "SubcategorieBilant": "ChEx",
+    "Intrari": "",
+    "Bilant": 2
+  },
+  {
+    "Id": 652,
+    "Nume": "Cheltuieli cu protecţia mediului înconjurător",
+    "IncadrareCont": "Cheltuieli",
+    "CategorieBilant": "CPrPd",
+    "SubcategorieBilant": "ChEx",
+    "Intrari": "",
+    "Bilant": 2
+  },
+  {
+    "Id": 654,
+    "Nume": "Pierderi din creanţe şi debitori diverşi",
+    "IncadrareCont": "Cheltuieli",
+    "CategorieBilant": "CPrPd",
+    "SubcategorieBilant": "ChEx",
+    "Intrari": "",
+    "Bilant": 2
+  },
+  {
+    "Id": 655,
+    "Nume": "Cheltuieli din reevaluarea imobilizărilor corporale",
+    "IncadrareCont": "Cheltuieli",
+    "CategorieBilant": "CPrPd",
+    "SubcategorieBilant": "ChEx",
+    "Intrari": "",
+    "Bilant": 2
+  },
+  {
+    "Id": 658,
+    "Nume": "Alte cheltuieli de exploatare",
+    "IncadrareCont": "Cheltuieli",
+    "CategorieBilant": "CPrPd",
+    "SubcategorieBilant": "ChEx",
+    "Intrari": "",
+    "Bilant": 2
+  },
+  {
+    "Id": 6581,
+    "Nume": "Despăgubiri, amenzi şi penalităţi",
+    "IncadrareCont": "Cheltuieli",
+    "CategorieBilant": "CPrPd",
+    "SubcategorieBilant": "ChEx",
+    "Intrari": "",
+    "Bilant": 2
+  },
+  {
+    "Id": 6582,
+    "Nume": "Donaţii acordate",
+    "IncadrareCont": "Cheltuieli",
+    "CategorieBilant": "CPrPd",
+    "SubcategorieBilant": "ChEx",
+    "Intrari": "",
+    "Bilant": 2
+  },
+  {
+    "Id": 6583,
+    "Nume": "Cheltuieli privind activele cedate şi alte operaţiuni de capital",
+    "IncadrareCont": "Cheltuieli",
+    "CategorieBilant": "CPrPd",
+    "SubcategorieBilant": "ChEx",
+    "Intrari": "",
+    "Bilant": 2
+  },
+  {
+    "Id": 6584,
+    "Nume": "Cheltuieli cu sumele sau bunurile acordate ca sponsorizări",
+    "IncadrareCont": "Cheltuieli",
+    "CategorieBilant": "CPrPd",
+    "SubcategorieBilant": "ChEx",
+    "Intrari": "",
+    "Bilant": 2
+  },
+  {
+    "Id": 6586,
+    "Nume": "Cheltuieli reprezentând transferuri şi contribuţii datorate în baza unor acte normative speciale",
+    "IncadrareCont": "Cheltuieli",
+    "CategorieBilant": "CPrPd",
+    "SubcategorieBilant": "ChEx",
+    "Intrari": "",
+    "Bilant": 2
+  },
+  {
+    "Id": 6587,
+    "Nume": "Cheltuieli privind calamităţile şi alte evenimente similare",
+    "IncadrareCont": "Cheltuieli",
+    "CategorieBilant": "CPrPd",
+    "SubcategorieBilant": "ChEx",
+    "Intrari": "",
+    "Bilant": 2
+  },
+  {
+    "Id": 6588,
+    "Nume": "Alte cheltuieli de exploatare",
+    "IncadrareCont": "Cheltuieli",
+    "CategorieBilant": "CPrPd",
+    "SubcategorieBilant": "ChEx",
+    "Intrari": "",
+    "Bilant": 2
+  },
+  {
+    "Id": 66,
+    "Nume": "Cheltuieli financiare",
+    "IncadrareCont": "Cheltuieli",
+    "CategorieBilant": "CPrPd",
+    "SubcategorieBilant": "ChFin",
+    "Intrari": "",
+    "Bilant": 5
+  },
+  {
+    "Id": 663,
+    "Nume": "Pierderi din creanţe legate de participaţii",
+    "IncadrareCont": "Cheltuieli",
+    "CategorieBilant": "CPrPd",
+    "SubcategorieBilant": "ChFin",
+    "Intrari": "",
+    "Bilant": 5
+  },
+  {
+    "Id": 664,
+    "Nume": "Cheltuieli privind investiţiile financiare cedate",
+    "IncadrareCont": "Cheltuieli",
+    "CategorieBilant": "CPrPd",
+    "SubcategorieBilant": "ChFin",
+    "Intrari": "",
+    "Bilant": 5
+  },
+  {
+    "Id": 6641,
+    "Nume": "Cheltuieli privind imobilizările financiare cedate",
+    "IncadrareCont": "Cheltuieli",
+    "CategorieBilant": "CPrPd",
+    "SubcategorieBilant": "ChFin",
+    "Intrari": "",
+    "Bilant": 5
+  },
+  {
+    "Id": 6642,
+    "Nume": "Pierderi din investiţiile pe termen scurt cedate",
+    "IncadrareCont": "Cheltuieli",
+    "CategorieBilant": "CPrPd",
+    "SubcategorieBilant": "ChFin",
+    "Intrari": "",
+    "Bilant": 5
+  },
+  {
+    "Id": 665,
+    "Nume": "Cheltuieli din diferenţe de curs valutar",
+    "IncadrareCont": "Cheltuieli",
+    "CategorieBilant": "CPrPd",
+    "SubcategorieBilant": "ChFin",
+    "Intrari": "",
+    "Bilant": 5
+  },
+  {
+    "Id": 6651,
+    "Nume": "Diferenţe nefavorabile de curs valutar legate de elementele monetare exprimate în valută",
+    "IncadrareCont": "Cheltuieli",
+    "CategorieBilant": "CPrPd",
+    "SubcategorieBilant": "ChFin",
+    "Intrari": "",
+    "Bilant": 5
+  },
+  {
+    "Id": 6652,
+    "Nume": "Diferenţe nefavorabile de curs valutar din evaluarea elementelor monetare care fac parte din investiţia netă într-o entitate străină",
+    "IncadrareCont": "Cheltuieli",
+    "CategorieBilant": "CPrPd",
+    "SubcategorieBilant": "ChFin",
+    "Intrari": "",
+    "Bilant": 5
+  },
+  {
+    "Id": 666,
+    "Nume": "Cheltuieli privind dobânzile",
+    "IncadrareCont": "Cheltuieli",
+    "CategorieBilant": "CPrPd",
+    "SubcategorieBilant": "ChFin",
+    "Intrari": "",
+    "Bilant": 5
+  },
+  {
+    "Id": 667,
+    "Nume": "Cheltuieli privind sconturile acordate",
+    "IncadrareCont": "Cheltuieli",
+    "CategorieBilant": "CPrPd",
+    "SubcategorieBilant": "ChFin",
+    "Intrari": "",
+    "Bilant": 5
+  },
+  {
+    "Id": 668,
+    "Nume": "Alte cheltuieli financiare",
+    "IncadrareCont": "Cheltuieli",
+    "CategorieBilant": "CPrPd",
+    "SubcategorieBilant": "ChFin",
+    "Intrari": "",
+    "Bilant": 5
+  },
+  {
+    "Id": 68,
+    "Nume": "Cheltuieli cu amortizările, provizioanele şi ajustările pentru depreciere sau pierdere de valoare",
+    "IncadrareCont": "Cheltuieli",
+    "CategorieBilant": "CPrPd",
+    "SubcategorieBilant": "ChFin",
+    "Intrari": "",
+    "Bilant": 5
+  },
+  {
+    "Id": 681,
+    "Nume": "Cheltuieli de exploatare privind amortizările, provizioanele şi ajustările pentru depreciere",
+    "IncadrareCont": "Cheltuieli",
+    "CategorieBilant": "CPrPd",
+    "SubcategorieBilant": "ChFin",
+    "Intrari": "",
+    "Bilant": 5
+  },
+  {
+    "Id": 6811,
+    "Nume": "Cheltuieli de exploatare privind amortizarea imobilizărilor",
+    "IncadrareCont": "Cheltuieli",
+    "CategorieBilant": "CPrPd",
+    "SubcategorieBilant": "ChFin",
+    "Intrari": "",
+    "Bilant": 5
+  },
+  {
+    "Id": 6812,
+    "Nume": "Cheltuieli de exploatare privind provizioanele",
+    "IncadrareCont": "Cheltuieli",
+    "CategorieBilant": "CPrPd",
+    "SubcategorieBilant": "ChFin",
+    "Intrari": "",
+    "Bilant": 5
+  },
+  {
+    "Id": 6813,
+    "Nume": "Cheltuieli de exploatare privind ajustările pentru deprecierea imobilizărilor",
+    "IncadrareCont": "Cheltuieli",
+    "CategorieBilant": "CPrPd",
+    "SubcategorieBilant": "ChFin",
+    "Intrari": "",
+    "Bilant": 5
+  },
+  {
+    "Id": 6814,
+    "Nume": "Cheltuieli de exploatare privind ajustările pentru deprecierea activelor circulante",
+    "IncadrareCont": "Cheltuieli",
+    "CategorieBilant": "CPrPd",
+    "SubcategorieBilant": "ChFin",
+    "Intrari": "",
+    "Bilant": 5
+  },
+  {
+    "Id": 6817,
+    "Nume": "Cheltuieli de exploatare privind ajustările pentru deprecierea fondului comercial",
+    "IncadrareCont": "Cheltuieli",
+    "CategorieBilant": "CPrPd",
+    "SubcategorieBilant": "ChFin",
+    "Intrari": "",
+    "Bilant": 5
+  },
+  {
+    "Id": 686,
+    "Nume": "Cheltuieli financiare privind amortizările, provizioanele şi ajustările pentru pierdere de valoare",
+    "IncadrareCont": "Cheltuieli",
+    "CategorieBilant": "CPrPd",
+    "SubcategorieBilant": "ChFin",
+    "Intrari": "",
+    "Bilant": 5
+  },
+  {
+    "Id": 6861,
+    "Nume": "Cheltuieli privind actualizarea provizioanelor",
+    "IncadrareCont": "Cheltuieli",
+    "CategorieBilant": "CPrPd",
+    "SubcategorieBilant": "ChFin",
+    "Intrari": "",
+    "Bilant": 5
+  },
+  {
+    "Id": 6863,
+    "Nume": "Cheltuieli financiare privind ajustările pentru pierderea de valoare a imobilizărilor financiare",
+    "IncadrareCont": "Cheltuieli",
+    "CategorieBilant": "CPrPd",
+    "SubcategorieBilant": "ChFin",
+    "Intrari": "",
+    "Bilant": 5
+  },
+  {
+    "Id": 6864,
+    "Nume": "Cheltuieli financiare privind ajustările pentru pierderea de valoare a activelor circulante",
+    "IncadrareCont": "Cheltuieli",
+    "CategorieBilant": "CPrPd",
+    "SubcategorieBilant": "ChFin",
+    "Intrari": "",
+    "Bilant": 5
+  },
+  {
+    "Id": 6865,
+    "Nume": "Cheltuieli financiare privind amortizarea diferenţelor aferente titlurilor de stat",
+    "IncadrareCont": "Cheltuieli",
+    "CategorieBilant": "CPrPd",
+    "SubcategorieBilant": "ChFin",
+    "Intrari": "",
+    "Bilant": 5
+  },
+  {
+    "Id": 6868,
+    "Nume": "Cheltuieli financiare privind amortizarea primelor de rambursare a obligaţiunilor şi a altor datorii",
+    "IncadrareCont": "Cheltuieli",
+    "CategorieBilant": "CPrPd",
+    "SubcategorieBilant": "ChFin",
+    "Intrari": "",
+    "Bilant": 5
+  },
+  {
+    "Id": 69,
+    "Nume": "Cheltuieli cu impozitul pe profit şi alte impozite",
+    "IncadrareCont": "Cheltuieli",
+    "CategorieBilant": "CPrPd",
+    "SubcategorieBilant": "ChFin",
+    "Intrari": "",
+    "Bilant": 5
+  },
+  {
+    "Id": 691,
+    "Nume": "Cheltuieli cu impozitul pe profit",
+    "IncadrareCont": "Cheltuieli",
+    "CategorieBilant": "CPrPd",
+    "SubcategorieBilant": "ChFin",
+    "Intrari": "",
+    "Bilant": 5
+  },
+  {
+    "Id": 695,
+    "Nume": "Cheltuieli cu impozitul specific unor activităţi",
+    "IncadrareCont": "Cheltuieli",
+    "CategorieBilant": "CPrPd",
+    "SubcategorieBilant": "ChFin",
+    "Intrari": "",
+    "Bilant": 5
+  },
+  {
+    "Id": 698,
+    "Nume": "Cheltuieli cu impozitul pe venit şi cu alte impozite care nu apar în elementele de mai sus",
+    "IncadrareCont": "Cheltuieli",
+    "CategorieBilant": "CPrPd",
+    "SubcategorieBilant": "ChFin",
+    "Intrari": "",
+    "Bilant": 5
+  },
+  {
+    "Id": 70,
+    "Nume": "Cifra de afaceri netă",
+    "IncadrareCont": "Venituri",
+    "CategorieBilant": "CPrPd",
+    "SubcategorieBilant": "VenEx",
+    "Intrari": "",
+    "Bilant": 1
+  },
+  {
+    "Id": 701,
+    "Nume": "Venituri din vânzarea produselor finite, produselor agricole şi a activelor biologice de natura stocurilor",
+    "IncadrareCont": "Venituri",
+    "CategorieBilant": "CPrPd",
+    "SubcategorieBilant": "VenEx",
+    "Intrari": "",
+    "Bilant": 1
+  },
+  {
+    "Id": 7015,
+    "Nume": "Venituri din vânzarea produselor finite",
+    "IncadrareCont": "Venituri",
+    "CategorieBilant": "CPrPd",
+    "SubcategorieBilant": "VenEx",
+    "Intrari": "",
+    "Bilant": 1
+  },
+  {
+    "Id": 7017,
+    "Nume": "Venituri din vânzarea produselor agricole",
+    "IncadrareCont": "Venituri",
+    "CategorieBilant": "CPrPd",
+    "SubcategorieBilant": "VenEx",
+    "Intrari": "",
+    "Bilant": 1
+  },
+  {
+    "Id": 7018,
+    "Nume": "Venituri din vânzarea activelor biologice de natura stocurilor",
+    "IncadrareCont": "Venituri",
+    "CategorieBilant": "CPrPd",
+    "SubcategorieBilant": "VenEx",
+    "Intrari": "",
+    "Bilant": 1
+  },
+  {
+    "Id": 702,
+    "Nume": "Venituri din vânzarea semifabricatelor",
+    "IncadrareCont": "Venituri",
+    "CategorieBilant": "CPrPd",
+    "SubcategorieBilant": "VenEx",
+    "Intrari": "",
+    "Bilant": 1
+  },
+  {
+    "Id": 703,
+    "Nume": "Venituri din vânzarea produselor reziduale",
+    "IncadrareCont": "Venituri",
+    "CategorieBilant": "CPrPd",
+    "SubcategorieBilant": "VenEx",
+    "Intrari": "",
+    "Bilant": 1
+  },
+  {
+    "Id": 704,
+    "Nume": "Venituri din servicii prestate",
+    "IncadrareCont": "Venituri",
+    "CategorieBilant": "CPrPd",
+    "SubcategorieBilant": "VenEx",
+    "Intrari": "",
+    "Bilant": 1
+  },
+  {
+    "Id": 705,
+    "Nume": "Venituri din studii şi cercetări",
+    "IncadrareCont": "Venituri",
+    "CategorieBilant": "CPrPd",
+    "SubcategorieBilant": "VenEx",
+    "Intrari": "",
+    "Bilant": 1
+  },
+  {
+    "Id": 706,
+    "Nume": "Venituri din redevenţe, locaţii de gestiune şi chirii",
+    "IncadrareCont": "Venituri",
+    "CategorieBilant": "CPrPd",
+    "SubcategorieBilant": "VenEx",
+    "Intrari": "",
+    "Bilant": 1
+  },
+  {
+    "Id": 707,
+    "Nume": "Venituri din vânzarea mărfurilor",
+    "IncadrareCont": "Venituri",
+    "CategorieBilant": "CPrPd",
+    "SubcategorieBilant": "VenEx",
+    "Intrari": "",
+    "Bilant": 1
+  },
+  {
+    "Id": 708,
+    "Nume": "Venituri din activităţi diverse",
+    "IncadrareCont": "Venituri",
+    "CategorieBilant": "CPrPd",
+    "SubcategorieBilant": "VenEx",
+    "Intrari": "",
+    "Bilant": 1
+  },
+  {
+    "Id": 709,
+    "Nume": "Reduceri comerciale acordate",
+    "IncadrareCont": "Venituri",
+    "CategorieBilant": "CPrPd",
+    "SubcategorieBilant": "VenEx",
+    "Intrari": "",
+    "Bilant": 1
+  },
+  {
+    "Id": 71,
+    "Nume": "Venituri aferente costului producţiei în curs de execuţie",
+    "IncadrareCont": "Venituri",
+    "CategorieBilant": "CPrPd",
+    "SubcategorieBilant": "VenEx",
+    "Intrari": "",
+    "Bilant": 1
+  },
+  {
+    "Id": 711,
+    "Nume": "Venituri aferente costurilor stocurilor de produse",
+    "IncadrareCont": "Venituri",
+    "CategorieBilant": "CPrPd",
+    "SubcategorieBilant": "VenEx",
+    "Intrari": "",
+    "Bilant": 1
+  },
+  {
+    "Id": 712,
+    "Nume": "Venituri aferente costurilor serviciilor în curs de execuţie",
+    "IncadrareCont": "Venituri",
+    "CategorieBilant": "CPrPd",
+    "SubcategorieBilant": "VenEx",
+    "Intrari": "",
+    "Bilant": 1
+  },
+  {
+    "Id": 72,
+    "Nume": "Venituri din producţia de imobilizări",
+    "IncadrareCont": "Venituri",
+    "CategorieBilant": "CPrPd",
+    "SubcategorieBilant": "VenEx",
+    "Intrari": "",
+    "Bilant": 1
+  },
+  {
+    "Id": 721,
+    "Nume": "Venituri din producţia de imobilizări necorporale",
+    "IncadrareCont": "Venituri",
+    "CategorieBilant": "CPrPd",
+    "SubcategorieBilant": "VenEx",
+    "Intrari": "",
+    "Bilant": 1
+  },
+  {
+    "Id": 722,
+    "Nume": "Venituri din producţia de imobilizări corporale",
+    "IncadrareCont": "Venituri",
+    "CategorieBilant": "CPrPd",
+    "SubcategorieBilant": "VenEx",
+    "Intrari": "",
+    "Bilant": 1
+  },
+  {
+    "Id": 725,
+    "Nume": "Venituri din producţia de investiţii imobiliare",
+    "IncadrareCont": "Venituri",
+    "CategorieBilant": "CPrPd",
+    "SubcategorieBilant": "VenEx",
+    "Intrari": "",
+    "Bilant": 1
+  },
+  {
+    "Id": 74,
+    "Nume": "Venituri din subvenţii de exploatare",
+    "IncadrareCont": "Venituri",
+    "CategorieBilant": "CPrPd",
+    "SubcategorieBilant": "VenEx",
+    "Intrari": "",
+    "Bilant": 1
+  },
+  {
+    "Id": 741,
+    "Nume": "Venituri din subvenţii de exploatare",
+    "IncadrareCont": "Venituri",
+    "CategorieBilant": "CPrPd",
+    "SubcategorieBilant": "VenEx",
+    "Intrari": "",
+    "Bilant": 1
+  },
+  {
+    "Id": 7411,
+    "Nume": "Venituri din subvenţii de exploatare aferente cifrei de afaceri",
+    "IncadrareCont": "Venituri",
+    "CategorieBilant": "CPrPd",
+    "SubcategorieBilant": "VenEx",
+    "Intrari": "",
+    "Bilant": 1
+  },
+  {
+    "Id": 7412,
+    "Nume": "Venituri din subvenţii de exploatare pentru materii prime şi materiale",
+    "IncadrareCont": "Venituri",
+    "CategorieBilant": "CPrPd",
+    "SubcategorieBilant": "VenEx",
+    "Intrari": "",
+    "Bilant": 1
+  },
+  {
+    "Id": 7413,
+    "Nume": "Venituri din subvenţii de exploatare pentru alte cheltuieli externe",
+    "IncadrareCont": "Venituri",
+    "CategorieBilant": "CPrPd",
+    "SubcategorieBilant": "VenEx",
+    "Intrari": "",
+    "Bilant": 1
+  },
+  {
+    "Id": 7414,
+    "Nume": "Venituri din subvenţii de exploatare pentru plata personalului",
+    "IncadrareCont": "Venituri",
+    "CategorieBilant": "CPrPd",
+    "SubcategorieBilant": "VenEx",
+    "Intrari": "",
+    "Bilant": 1
+  },
+  {
+    "Id": 7415,
+    "Nume": "Venituri din subvenţii de exploatare pentru asigurări şi protecţie socială",
+    "IncadrareCont": "Venituri",
+    "CategorieBilant": "CPrPd",
+    "SubcategorieBilant": "VenEx",
+    "Intrari": "",
+    "Bilant": 1
+  },
+  {
+    "Id": 7416,
+    "Nume": "Venituri din subvenţii de exploatare pentru alte cheltuieli de exploatare",
+    "IncadrareCont": "Venituri",
+    "CategorieBilant": "CPrPd",
+    "SubcategorieBilant": "VenEx",
+    "Intrari": "",
+    "Bilant": 1
+  },
+  {
+    "Id": 7417,
+    "Nume": "Venituri din subvenţii de exploatare în caz de calamităţi şi alte evenimente similare",
+    "IncadrareCont": "Venituri",
+    "CategorieBilant": "CPrPd",
+    "SubcategorieBilant": "VenEx",
+    "Intrari": "",
+    "Bilant": 1
+  },
+  {
+    "Id": 7418,
+    "Nume": "Venituri din subvenţii de exploatare pentru dobânda datorată",
+    "IncadrareCont": "Venituri",
+    "CategorieBilant": "CPrPd",
+    "SubcategorieBilant": "VenEx",
+    "Intrari": "",
+    "Bilant": 1
+  },
+  {
+    "Id": 7419,
+    "Nume": "Venituri din subvenţii de exploatare aferente altor venituri",
+    "IncadrareCont": "Venituri",
+    "CategorieBilant": "CPrPd",
+    "SubcategorieBilant": "VenEx",
+    "Intrari": "",
+    "Bilant": 1
+  },
+  {
+    "Id": 75,
+    "Nume": "Alte venituri din exploatare",
+    "IncadrareCont": "Venituri",
+    "CategorieBilant": "CPrPd",
+    "SubcategorieBilant": "VenEx",
+    "Intrari": "",
+    "Bilant": 1
+  },
+  {
+    "Id": 751,
+    "Nume": "Venituri din operaţiuni de fiducie",
+    "IncadrareCont": "Venituri",
+    "CategorieBilant": "CPrPd",
+    "SubcategorieBilant": "VenEx",
+    "Intrari": "",
+    "Bilant": 1
+  },
+  {
+    "Id": 7511,
+    "Nume": "Venituri ocazionate de constituirea fiduciei",
+    "IncadrareCont": "Venituri",
+    "CategorieBilant": "CPrPd",
+    "SubcategorieBilant": "VenEx",
+    "Intrari": "",
+    "Bilant": 1
+  },
+  {
+    "Id": 7512,
+    "Nume": "Venituri din derularea operaţiunilor de fiducie",
+    "IncadrareCont": "Venituri",
+    "CategorieBilant": "CPrPd",
+    "SubcategorieBilant": "VenEx",
+    "Intrari": "",
+    "Bilant": 1
+  },
+  {
+    "Id": 7513,
+    "Nume": "Venituri din lichidarea operaţiunilor de fiducie",
+    "IncadrareCont": "Venituri",
+    "CategorieBilant": "CPrPd",
+    "SubcategorieBilant": "VenEx",
+    "Intrari": "",
+    "Bilant": 1
+  },
+  {
+    "Id": 754,
+    "Nume": "Venituri din creanţe reactivate şi debitori diverşi",
+    "IncadrareCont": "Venituri",
+    "CategorieBilant": "CPrPd",
+    "SubcategorieBilant": "VenEx",
+    "Intrari": "",
+    "Bilant": 1
+  },
+  {
+    "Id": 755,
+    "Nume": "Venituri din reevaluarea imobilizărilor corporale",
+    "IncadrareCont": "Venituri",
+    "CategorieBilant": "CPrPd",
+    "SubcategorieBilant": "VenEx",
+    "Intrari": "",
+    "Bilant": 1
+  },
+  {
+    "Id": 758,
+    "Nume": "Alte venituri din exploatare",
+    "IncadrareCont": "Venituri",
+    "CategorieBilant": "CPrPd",
+    "SubcategorieBilant": "VenEx",
+    "Intrari": "",
+    "Bilant": 1
+  },
+  {
+    "Id": 7581,
+    "Nume": "Venituri din despăgubiri, amenzi şi penalităţi",
+    "IncadrareCont": "Venituri",
+    "CategorieBilant": "CPrPd",
+    "SubcategorieBilant": "VenEx",
+    "Intrari": "",
+    "Bilant": 1
+  },
+  {
+    "Id": 7582,
+    "Nume": "Venituri din donaţii primite",
+    "IncadrareCont": "Venituri",
+    "CategorieBilant": "CPrPd",
+    "SubcategorieBilant": "VenEx",
+    "Intrari": "",
+    "Bilant": 1
+  },
+  {
+    "Id": 7583,
+    "Nume": "Venituri din vânzarea activelor şi alte operaţiuni de capital",
+    "IncadrareCont": "Venituri",
+    "CategorieBilant": "CPrPd",
+    "SubcategorieBilant": "VenEx",
+    "Intrari": "",
+    "Bilant": 1
+  },
+  {
+    "Id": 7584,
+    "Nume": "Venituri din subvenţii pentru investiţii",
+    "IncadrareCont": "Venituri",
+    "CategorieBilant": "CPrPd",
+    "SubcategorieBilant": "VenEx",
+    "Intrari": "",
+    "Bilant": 1
+  },
+  {
+    "Id": 7586,
+    "Nume": "Venituri reprezentând transferuri cuvenite în baza unor acte normative speciale",
+    "IncadrareCont": "Venituri",
+    "CategorieBilant": "CPrPd",
+    "SubcategorieBilant": "VenEx",
+    "Intrari": "",
+    "Bilant": 1
+  },
+  {
+    "Id": 7588,
+    "Nume": "Alte venituri din exploatare",
+    "IncadrareCont": "Venituri",
+    "CategorieBilant": "CPrPd",
+    "SubcategorieBilant": "VenEx",
+    "Intrari": "",
+    "Bilant": 1
+  },
+  {
+    "Id": 76,
+    "Nume": "Venituri financiare",
+    "IncadrareCont": "Venituri",
+    "CategorieBilant": "CPrPd",
+    "SubcategorieBilant": "VenFin",
+    "Intrari": "",
+    "Bilant": 4
+  },
+  {
+    "Id": 761,
+    "Nume": "Venituri din imobilizări financiare",
+    "IncadrareCont": "Venituri",
+    "CategorieBilant": "CPrPd",
+    "SubcategorieBilant": "VenFin",
+    "Intrari": "",
+    "Bilant": 4
+  },
+  {
+    "Id": 7611,
+    "Nume": "Venituri din acţiuni deţinute la entităţile afiliate",
+    "IncadrareCont": "Venituri",
+    "CategorieBilant": "CPrPd",
+    "SubcategorieBilant": "VenFin",
+    "Intrari": "",
+    "Bilant": 4
+  },
+  {
+    "Id": 7612,
+    "Nume": "Venituri din acţiuni deţinute la entităţi asociate",
+    "IncadrareCont": "Venituri",
+    "CategorieBilant": "CPrPd",
+    "SubcategorieBilant": "VenFin",
+    "Intrari": "",
+    "Bilant": 4
+  },
+  {
+    "Id": 7613,
+    "Nume": "Venituri din acţiuni deţinute la entităţi controlate în comun",
+    "IncadrareCont": "Venituri",
+    "CategorieBilant": "CPrPd",
+    "SubcategorieBilant": "VenFin",
+    "Intrari": "",
+    "Bilant": 4
+  },
+  {
+    "Id": 7615,
+    "Nume": "Venituri din alte imobilizări financiare",
+    "IncadrareCont": "Venituri",
+    "CategorieBilant": "CPrPd",
+    "SubcategorieBilant": "VenFin",
+    "Intrari": "",
+    "Bilant": 4
+  },
+  {
+    "Id": 762,
+    "Nume": "Venituri din investiţii financiare pe termen scurt",
+    "IncadrareCont": "Venituri",
+    "CategorieBilant": "CPrPd",
+    "SubcategorieBilant": "VenFin",
+    "Intrari": "",
+    "Bilant": 4
+  },
+  {
+    "Id": 764,
+    "Nume": "Venituri din investiţii financiare cedate",
+    "IncadrareCont": "Venituri",
+    "CategorieBilant": "CPrPd",
+    "SubcategorieBilant": "VenFin",
+    "Intrari": "",
+    "Bilant": 4
+  },
+  {
+    "Id": 7641,
+    "Nume": "Venituri din imobilizări financiare cedate",
+    "IncadrareCont": "Venituri",
+    "CategorieBilant": "CPrPd",
+    "SubcategorieBilant": "VenFin",
+    "Intrari": "",
+    "Bilant": 4
+  },
+  {
+    "Id": 7642,
+    "Nume": "Câştiguri din investiţii pe termen scurt cedate",
+    "IncadrareCont": "Venituri",
+    "CategorieBilant": "CPrPd",
+    "SubcategorieBilant": "VenFin",
+    "Intrari": "",
+    "Bilant": 4
+  },
+  {
+    "Id": 765,
+    "Nume": "Venituri din diferenţe de curs valutar",
+    "IncadrareCont": "Venituri",
+    "CategorieBilant": "CPrPd",
+    "SubcategorieBilant": "VenFin",
+    "Intrari": "",
+    "Bilant": 4
+  },
+  {
+    "Id": 7651,
+    "Nume": "Diferenţe favorabile de curs valutar legate de elementele monetare exprimate în valută",
+    "IncadrareCont": "Venituri",
+    "CategorieBilant": "CPrPd",
+    "SubcategorieBilant": "VenFin",
+    "Intrari": "",
+    "Bilant": 4
+  },
+  {
+    "Id": 7652,
+    "Nume": "Diferenţe favorabile de curs valutar din evaluarea elementelor monetare care fac parte din investiţia netă într-o entitate străină",
+    "IncadrareCont": "Venituri",
+    "CategorieBilant": "CPrPd",
+    "SubcategorieBilant": "VenFin",
+    "Intrari": "",
+    "Bilant": 4
+  },
+  {
+    "Id": 766,
+    "Nume": "Venituri din dobânzi",
+    "IncadrareCont": "Venituri",
+    "CategorieBilant": "CPrPd",
+    "SubcategorieBilant": "VenFin",
+    "Intrari": "",
+    "Bilant": 4
+  },
+  {
+    "Id": 767,
+    "Nume": "Venituri din sconturi obţinute",
+    "IncadrareCont": "Venituri",
+    "CategorieBilant": "CPrPd",
+    "SubcategorieBilant": "VenFin",
+    "Intrari": "",
+    "Bilant": 4
+  },
+  {
+    "Id": 768,
+    "Nume": "Alte venituri financiare",
+    "IncadrareCont": "Venituri",
+    "CategorieBilant": "CPrPd",
+    "SubcategorieBilant": "VenFin",
+    "Intrari": "",
+    "Bilant": 4
+  },
+  {
+    "Id": 78,
+    "Nume": "Venituri din provizioane, amortizări şi ajustări pentru depreciere sau pierdere de valoare",
+    "IncadrareCont": "Venituri",
+    "CategorieBilant": "CPrPd",
+    "SubcategorieBilant": "VenFin",
+    "Intrari": "",
+    "Bilant": 4
+  },
+  {
+    "Id": 781,
+    "Nume": "Venituri din provizioane şi ajustări pentru depreciere privind activitatea de exploatare",
+    "IncadrareCont": "Venituri",
+    "CategorieBilant": "CPrPd",
+    "SubcategorieBilant": "VenFin",
+    "Intrari": "",
+    "Bilant": 4
+  },
+  {
+    "Id": 7812,
+    "Nume": "Venituri din provizioane",
+    "IncadrareCont": "Venituri",
+    "CategorieBilant": "CPrPd",
+    "SubcategorieBilant": "VenFin",
+    "Intrari": "",
+    "Bilant": 4
+  },
+  {
+    "Id": 7813,
+    "Nume": "Venituri din ajustări pentru deprecierea imobilizărilor",
+    "IncadrareCont": "Venituri",
+    "CategorieBilant": "CPrPd",
+    "SubcategorieBilant": "VenFin",
+    "Intrari": "",
+    "Bilant": 4
+  },
+  {
+    "Id": 7814,
+    "Nume": "Venituri din ajustări pentru deprecierea activelor circulante",
+    "IncadrareCont": "Venituri",
+    "CategorieBilant": "CPrPd",
+    "SubcategorieBilant": "VenFin",
+    "Intrari": "",
+    "Bilant": 4
+  },
+  {
+    "Id": 7815,
+    "Nume": "Venituri din fondul comercial negativ",
+    "IncadrareCont": "Venituri",
+    "CategorieBilant": "CPrPd",
+    "SubcategorieBilant": "VenFin",
+    "Intrari": "",
+    "Bilant": 4
+  },
+  {
+    "Id": 786,
+    "Nume": "Venituri financiare din amortizări şi ajustări pentru pierdere de valoare",
+    "IncadrareCont": "Venituri",
+    "CategorieBilant": "CPrPd",
+    "SubcategorieBilant": "VenFin",
+    "Intrari": "",
+    "Bilant": 4
+  },
+  {
+    "Id": 7863,
+    "Nume": "Venituri financiare din ajustări pentru pierderea de valoare a imobilizărilor financiare",
+    "IncadrareCont": "Venituri",
+    "CategorieBilant": "CPrPd",
+    "SubcategorieBilant": "VenFin",
+    "Intrari": "",
+    "Bilant": 4
+  },
+  {
+    "Id": 7864,
+    "Nume": "Venituri financiare din ajustări pentru pierderea de valoare a activelor circulante",
+    "IncadrareCont": "Venituri",
+    "CategorieBilant": "CPrPd",
+    "SubcategorieBilant": "VenFin",
+    "Intrari": "",
+    "Bilant": 4
+  },
+  {
+    "Id": 7865,
+    "Nume": "Venituri financiare din amortizarea diferenţelor aferente titlurilor de stat",
+    "IncadrareCont": "Venituri",
+    "CategorieBilant": "CPrPd",
+    "SubcategorieBilant": "VenFin",
+    "Intrari": "",
+    "Bilant": 4
+  },
+  {
+    "Id": 80,
+    "Nume": "Conturi în afara bilanţului",
+    "IncadrareCont": "#N/A",
+    "CategorieBilant": "",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": ""
+  },
+  {
+    "Id": 801,
+    "Nume": "Angajamente acordate",
+    "IncadrareCont": "#N/A",
+    "CategorieBilant": "",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": ""
+  },
+  {
+    "Id": 8011,
+    "Nume": "Giruri şi garanţii acordate",
+    "IncadrareCont": "#N/A",
+    "CategorieBilant": "",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": ""
+  },
+  {
+    "Id": 8018,
+    "Nume": "Alte angajamente acordate",
+    "IncadrareCont": "#N/A",
+    "CategorieBilant": "",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": ""
+  },
+  {
+    "Id": 802,
+    "Nume": "Angajamente primite",
+    "IncadrareCont": "#N/A",
+    "CategorieBilant": "",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": ""
+  },
+  {
+    "Id": 8021,
+    "Nume": "Giruri şi garanţii primite",
+    "IncadrareCont": "#N/A",
+    "CategorieBilant": "",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": ""
+  },
+  {
+    "Id": 8028,
+    "Nume": "Alte angajamente primite",
+    "IncadrareCont": "#N/A",
+    "CategorieBilant": "",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": ""
+  },
+  {
+    "Id": 803,
+    "Nume": "Alte conturi în afara bilanţului",
+    "IncadrareCont": "#N/A",
+    "CategorieBilant": "",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": ""
+  },
+  {
+    "Id": 8031,
+    "Nume": "Imobilizări corporale primite cu chirie sau în baza altor contracte similare",
+    "IncadrareCont": "#N/A",
+    "CategorieBilant": "",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": ""
+  },
+  {
+    "Id": 8032,
+    "Nume": "Valori materiale primite spre prelucrare sau reparare",
+    "IncadrareCont": "#N/A",
+    "CategorieBilant": "",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": ""
+  },
+  {
+    "Id": 8033,
+    "Nume": "Valori materiale primite în păstrare sau custodie",
+    "IncadrareCont": "#N/A",
+    "CategorieBilant": "",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": ""
+  },
+  {
+    "Id": 8034,
+    "Nume": "Debitori scoşi din activ, urmăriţi în continuare",
+    "IncadrareCont": "#N/A",
+    "CategorieBilant": "",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": ""
+  },
+  {
+    "Id": 8035,
+    "Nume": "Stocuri de natura obiectelor de inventar date în folosinţă",
+    "IncadrareCont": "#N/A",
+    "CategorieBilant": "",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": ""
+  },
+  {
+    "Id": 8036,
+    "Nume": "Redevenţe, locaţii de gestiune, chirii şi alte datorii asimilate",
+    "IncadrareCont": "#N/A",
+    "CategorieBilant": "",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": ""
+  },
+  {
+    "Id": 8037,
+    "Nume": "Efecte scontate neajunse la scadenţă",
+    "IncadrareCont": "#N/A",
+    "CategorieBilant": "",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": ""
+  },
+  {
+    "Id": 8038,
+    "Nume": "Bunuri primite în administrare, concesiune şi cu chirie şi alte bunuri similare",
+    "IncadrareCont": "#N/A",
+    "CategorieBilant": "",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": ""
+  },
+  {
+    "Id": 8039,
+    "Nume": "Alte valori în afara bilanţului",
+    "IncadrareCont": "#N/A",
+    "CategorieBilant": "",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": ""
+  },
+  {
+    "Id": 804,
+    "Nume": "Certificate verzi",
+    "IncadrareCont": "#N/A",
+    "CategorieBilant": "",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": ""
+  },
+  {
+    "Id": 805,
+    "Nume": "Dobânzi aferente contractelor de leasing şi altor contracte asimilate, neajunse la scadenţă",
+    "IncadrareCont": "#N/A",
+    "CategorieBilant": "",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": ""
+  },
+  {
+    "Id": 8051,
+    "Nume": "Dobânzi de plătit",
+    "IncadrareCont": "#N/A",
+    "CategorieBilant": "",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": ""
+  },
+  {
+    "Id": 8052,
+    "Nume": "Dobânzi de încasat",
+    "IncadrareCont": "#N/A",
+    "CategorieBilant": "",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": ""
+  },
+  {
+    "Id": 806,
+    "Nume": "Certificate de emisii de gaze cu efect de seră",
+    "IncadrareCont": "#N/A",
+    "CategorieBilant": "",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": ""
+  },
+  {
+    "Id": 807,
+    "Nume": "Active contingente",
+    "IncadrareCont": "#N/A",
+    "CategorieBilant": "",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": ""
+  },
+  {
+    "Id": 808,
+    "Nume": "Datorii contingente",
+    "IncadrareCont": "#N/A",
+    "CategorieBilant": "",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": ""
+  },
+  {
+    "Id": 809,
+    "Nume": "Creanţe preluate prin cesionare",
+    "IncadrareCont": "#N/A",
+    "CategorieBilant": "",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": ""
+  },
+  {
+    "Id": 89,
+    "Nume": "Bilanţ",
+    "IncadrareCont": "#N/A",
+    "CategorieBilant": "",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": ""
+  },
+  {
+    "Id": 891,
+    "Nume": "Bilanţ de deschidere",
+    "IncadrareCont": "#N/A",
+    "CategorieBilant": "",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": ""
+  },
+  {
+    "Id": 892,
+    "Nume": "Bilanţ de închidere",
+    "IncadrareCont": "#N/A",
+    "CategorieBilant": "",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": ""
+  },
+  {
+    "Id": 90,
+    "Nume": "Decontări interne",
+    "IncadrareCont": "#N/A",
+    "CategorieBilant": "",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": ""
+  },
+  {
+    "Id": 901,
+    "Nume": "Decontări interne privind cheltuielile",
+    "IncadrareCont": "#N/A",
+    "CategorieBilant": "",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": ""
+  },
+  {
+    "Id": 902,
+    "Nume": "Decontări interne privind producţia obţinută",
+    "IncadrareCont": "#N/A",
+    "CategorieBilant": "",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": ""
+  },
+  {
+    "Id": 903,
+    "Nume": "Decontări interne privind diferenţele de preţ",
+    "IncadrareCont": "#N/A",
+    "CategorieBilant": "",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": ""
+  },
+  {
+    "Id": 92,
+    "Nume": "Conturi de calculaţie",
+    "IncadrareCont": "#N/A",
+    "CategorieBilant": "",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": ""
+  },
+  {
+    "Id": 921,
+    "Nume": "Cheltuielile activităţii de bază",
+    "IncadrareCont": "#N/A",
+    "CategorieBilant": "",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": ""
+  },
+  {
+    "Id": 922,
+    "Nume": "Cheltuielile activităţilor auxiliare",
+    "IncadrareCont": "#N/A",
+    "CategorieBilant": "",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": ""
+  },
+  {
+    "Id": 923,
+    "Nume": "Cheltuieli indirecte de producţie",
+    "IncadrareCont": "#N/A",
+    "CategorieBilant": "",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": ""
+  },
+  {
+    "Id": 924,
+    "Nume": "Cheltuieli generale de administraţie",
+    "IncadrareCont": "#N/A",
+    "CategorieBilant": "",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": ""
+  },
+  {
+    "Id": 925,
+    "Nume": "Cheltuieli de desfacere",
+    "IncadrareCont": "#N/A",
+    "CategorieBilant": "",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": ""
+  },
+  {
+    "Id": 93,
+    "Nume": "Costul producţiei",
+    "IncadrareCont": "#N/A",
+    "CategorieBilant": "",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": ""
+  },
+  {
+    "Id": 931,
+    "Nume": "Costul producţiei obţinute",
+    "IncadrareCont": "#N/A",
+    "CategorieBilant": "",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": ""
+  },
+  {
+    "Id": 933,
+    "Nume": "Costul producţiei în curs de execuţie",
+    "IncadrareCont": "#N/A",
+    "CategorieBilant": "",
+    "SubcategorieBilant": "",
+    "Intrari": "",
+    "Bilant": ""
+  }
+]
