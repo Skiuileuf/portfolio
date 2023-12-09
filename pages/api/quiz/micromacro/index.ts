@@ -86,7 +86,7 @@ export default async function handler(req: NextApiRequest, res: NextApiResponse)
         MultipleChoiceQuestions.push(mcq);
     }
 
-    // await promises.writeFile('./data/quiz.json', JSON.stringify(MultipleChoiceQuestions));
+    await promises.writeFile('./data/quiz.json', JSON.stringify(MultipleChoiceQuestions));
 
 
     // return res.status(200).json({ a: MultipleChoiceQuestions });
