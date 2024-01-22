@@ -61,7 +61,7 @@ export default function AccountsPage() {
                             <div className={`${isCategory && "font-bold"}`}>
                                 <div className={`inline-block w-10`}>{cont.numar}</div>
                                 <div className="inline-block">{cont.nume}</div>
-                                <div className="inline-block">{accountType}</div>
+                                {/* <div className="inline-block">{accountType}</div> */}
                             </div>
                         )
                     })
