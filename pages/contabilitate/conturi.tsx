@@ -19,67 +19,54 @@ export default function AccountsPage() {
 
     return (
         <Panel title="Conturi">
-            <nav className='flex justify-between items-center h-16 bg-white text-black relative shadow-sm
-      font-mono font-bold'>
-        <div className='flex justify-between items-center'>
-          <div className='flex space-x-4'>
-            {/* <Image src='/logo.png' width={50} height={50} /> */}
-            <h1 className='text-2xl'>Conturi</h1>
-          </div>
-        </div>
-        <div className='flex space-x-4'>
-          <input className='border-black'
-            placeholder='Cauta cont'
-            value={search}
-            onChange={(e) => {
-                console.log(e.target.value);
-                setSearch(e.target.value)}}
-          >
-          </input>
-          <button className='border-black'>Cauta</button>
-        </div>
-      </nav>
-  
-        {/* Main content */}
-      <h1 className='text-2xl'>Conturi</h1>
-      {/* Display table with horizontal rows */}
-      <div>
-        {
-            accounts.filter((e) => {
-                if(!e.nume) return false;
-
-                const containsNumber = e.numar.startsWith(search);
-                const containsSearch = e.nume.toLowerCase().includes(search.toLowerCase());
-
-                return containsNumber || containsSearch;
-            }).map((cont) => {
-                
-                const isCategory = cont.numar.length <= 2;
-                
-                return (
-                <div className={`${isCategory && "font-bold"}`}>
-                  <div className={`inline-block w-10`}>{cont.numar}</div>
-                  <div className="inline-block">{cont.nume}</div>
+            <nav className='flex justify-between items-center h-16 bg-white text-black relative shadow-sm font-mono font-bold'>
+                <div className='flex justify-between items-center'>
+                    <div className='flex space-x-4'>
+                        <h1 className='text-2xl'>Conturi</h1>
+                    </div>
                 </div>
-              )})
-        }
-      </div>
-      {/* <table className='table-auto border-collapse border border-black w-full'>
-        <thead>
-          <th>Numar</th>
-          <th>Nume</th>
-        </thead>
-        <tbody>
-          {
-            filterAccounts(accounts, search).map((cont) => (
-              <tr>
-                <td>{cont.numar}</td>
-                <td>{cont.nume}</td>
-              </tr>
-            ))
-          }
-        </tbody>
-      </table> */}
+                <div className='flex space-x-4'>
+                    <input className='border-black'
+                        placeholder='Cauta cont'
+                        value={search}
+                        onChange={(e) => {
+                            console.log(e.target.value);
+                            setSearch(e.target.value)
+                        }}
+                    >
+                    </input>
+                    <button className='border-black'>Cauta</button>
+                </div>
+            </nav>
+
+            {/* Display table with horizontal rows */}
+            <div className="container mx-auto">
+                {
+                    accounts.filter((e) => {
+                        if (!e.nume) return false;
+
+                        const containsNumber = e.numar.startsWith(search);
+
+                        const normalized = e.nume.normalize("NFD").replace(/[\u0300-\u036f]/g, "");
+                        const containsSearch = normalized.toLowerCase().includes(search.toLowerCase());
+
+                        return containsNumber || containsSearch;
+                    }).map((cont) => {
+
+                        const isCategory = cont.numar.length <= 2;
+                        
+                        const accountType = cont.nume.search(/\(.*\)/g)
+
+                        return (
+                            <div className={`${isCategory && "font-bold"}`}>
+                                <div className={`inline-block w-10`}>{cont.numar}</div>
+                                <div className="inline-block">{cont.nume}</div>
+                                <div className="inline-block">{accountType}</div>
+                            </div>
+                        )
+                    })
+                }
+            </div>
         </Panel>
     )
 }
