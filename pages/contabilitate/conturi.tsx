@@ -52,12 +52,16 @@ export default function AccountsPage() {
                 const containsSearch = e.nume.toLowerCase().includes(search.toLowerCase());
 
                 return containsNumber || containsSearch;
-            }).map((cont) => (
-                <div>
-                  <div className="inline-block">{cont.numar}</div>
+            }).map((cont) => {
+                
+                const isCategory = cont.numar.length <= 2;
+                
+                return (
+                <div className={`${isCategory && "font-bold"}`}>
+                  <div className={`inline-block w-10`}>{cont.numar}</div>
                   <div className="inline-block">{cont.nume}</div>
                 </div>
-              ))
+              )})
         }
       </div>
       {/* <table className='table-auto border-collapse border border-black w-full'>
