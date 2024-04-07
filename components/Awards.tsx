@@ -11,8 +11,14 @@ interface AwardEntry {
 const AwardEntries: AwardEntry[] = [
     {
         event: "Sesiunea stiintifica studenteasca",
+        description: "Aplicatie pentru fidelizarea clientilor unei cafenele",
+        date: "Aprilie 2024",
+        awardName: "Locul I"
+    },
+    {
+        event: "Sesiunea stiintifica studenteasca",
         description: "Sistem informatic de gestiune a unui complex imobiliar",
-        date: "2022",
+        date: "Aprilie 2023",
         awardName: "Locul III"
     },
     {
