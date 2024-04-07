@@ -16,23 +16,23 @@ const AwardEntries: AwardEntry[] = [
         awardName: "Locul I"
     },
     {
+        event: "Olimpiada Nationala a Economistilor in Formare",
+        description: "Sistem informatic de gestiune a unui complex imobiliar",
+        date: "Mai 2023",
+        awardName: "Premiu din partea BNR"
+    },
+    {
         event: "Sesiunea stiintifica studenteasca",
         description: "Sistem informatic de gestiune a unui complex imobiliar",
         date: "Aprilie 2023",
         awardName: "Locul III"
     },
     {
-        event: "Olimpiada Nationala a Economistilor in Formare",
-        description: "Sistem informatic de gestiune a unui complex imobiliar",
-        date: "2023",
-        awardName: "Premiu din partea BNR"
+        event: "First Tech Challenge - SkyStone",
+        description: "FTC RO 195 RoboOtopeni",
+        date: "2019",
+        awardName: "Participare"
     },
-    // {
-    //     event: "First Tech Challenge - SkyStone",
-    //     description: "FTC RO 195 RoboOtopeni",
-    //     date: "2019",
-    //     awardName: "Participare"
-    // },
 ];
 
 export default function Awards() {
