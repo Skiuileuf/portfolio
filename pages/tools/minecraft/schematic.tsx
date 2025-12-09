@@ -1,5 +1,11 @@
 // 'use client';
 
+export default function SchematicTool() {
+
+    return (<b>Aici sunt banii dumneavoastra</b>); 
+
+}
+
 // import { useState, useEffect } from 'react';
 // import Papa from 'papaparse';
 
