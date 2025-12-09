@@ -6,7 +6,7 @@ const CurrentProjects: ProjectProps[] = [
         description: "Siteul companiei nicoviangi.",
         technologies: ["HTML", "CSS", "Bootstrap", "JavaScript"],
         image: "images/nicoviangi.png",
-        sourceLink: "https://github.com/myusername/my-project",
+        sourceLink: "https://github.com/Skiuileuf/nicoviangi",
         deploymentLink: "https://nicoviangi.ro"
     },
     {
@@ -14,7 +14,7 @@ const CurrentProjects: ProjectProps[] = [
         description: "Program care proceseaza si centralizeaza feedback-ul profesoral primit de la elevi.",
         technologies: ["C#", "Windows Forms"],
         image: "images/procesarefeedback.png",
-        sourceLink: "https://github.com/myusername/my-project"
+        sourceLink: "https://github.com/Skiuileuf/ProcesareFeedback"
     },
     // {
     //     title: "SkyStone (First Tech Challenge)",
@@ -35,8 +35,23 @@ const CurrentProjects: ProjectProps[] = [
         description: "Transforma o imagine cu un bon fiscal intr-un fisier JSON cu datele de pe bon.",
         technologies: ["C#", ".NET", "IronOcr"],
         image: "images/profile.png",
-        sourceLink: "https://github.com/myusername/my-project"
+        sourceLink: "https://github.com/Skiuileuf/ReceiptAnalyzer"
     },
+        {
+        title: "Server Minecraft",
+        description: "Server de Minecraft + Proxy Velocity, selfhosted",
+        technologies: ["Minecraft", "Paper", "Velocity"],
+        image: "https://mc.viziteumihai.ro/tiles/minecraft_overworld/3/-1_0.png",
+        // sourceLink: "https://github.com/myusername/my-project"
+        deploymentLink: "https://mc.viziteumihai.ro"
+    },
+    //     {
+    //     title: "Receipt Analyzer",
+    //     description: "Transforma o imagine cu un bon fiscal intr-un fisier JSON cu datele de pe bon.",
+    //     technologies: ["C#", ".NET", "IronOcr"],
+    //     image: "images/profile.png",
+    //     sourceLink: "https://github.com/myusername/my-project"
+    // },
     // {
     //     title: "nondestructive-fire",
     //     description: "Un mod pentru Minecraft care face focul sa nu distruga blocuri.",

@@ -1,3 +1,5 @@
+import { CardFooter, InfoCard, ScrollableRow } from "./ScrollableUI";
+
 interface WorkExperienceEntry {
     place: string;
     period: string;
@@ -33,26 +35,34 @@ const WorkEntries: WorkExperienceEntry[] = [
 
 export default function WorkExperience() {
     return (
-        <div className="flex lg:flex-row flex-col">
+        <ScrollableRow>
             {WorkEntries.map((entry, index) => (
-                <div
-                    key={index}
-                    className="bg-gray-200 text-gray-700 text-sm rounded-md px-2 py-1 mr-0 lg:mr-2 mb-2 lg:mb-0 last:mb-0"
-                >
-                    <h2 className="text-xl font-semibold mb-1">{entry.place}</h2>
-                    <h2 className="text-base font-semibold mb-0">{entry.description}</h2>
-                    <h2 className="text-base font-semibold mb-1">{entry.position}</h2>
-                    {entry.responsibilities && <ul className="list-disc list-inside">
-                        {entry.responsibilities.map((responsibility, index) => (
-                            <li key={index}>{responsibility}</li>
-                        ))}
-                    </ul>}
-                    <h2 className="text-xl font-semibold">{entry.period}</h2>
-                    
-                    {/* {entry.subHonors && <h2 className="text-xl font-semibold">{entry.subHonors}</h2>} */}
-                </div>
-            ))}
-        </div>
+                <InfoCard key={index}>
+                    <div>
+                        <h2 className="text-lg font-bold mb-1 leading-tight">{entry.place}</h2>
+                        <h3 className="text-base font-semibold text-indigo-600 mb-2">{entry.position}</h3>
+                        
+                        {entry.description && (
+                            <p className="text-sm font-medium text-gray-600 mb-3 italic">
+                                "{entry.description}"
+                            </p>
+                        )}
 
+                        {entry.responsibilities && (
+                            <ul className="list-disc list-outside ml-4 text-xs text-gray-700 space-y-1 mb-4 marker:text-gray-500">
+                                {entry.responsibilities.map((res, i) => (
+                                    <li key={i}>{res}</li>
+                                ))}
+                            </ul>
+                        )}
+                    </div>
+                    <CardFooter>
+                        <p className="text-xs uppercase tracking-wide text-gray-500 font-semibold">
+                            {entry.period}
+                        </p>
+                    </CardFooter>
+                </InfoCard>
+            ))}
+        </ScrollableRow>
     )
 }

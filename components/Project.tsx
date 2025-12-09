@@ -3,7 +3,7 @@ export interface ProjectProps {
     title: string;
     description: string;
     image: string;
-    sourceLink: string;
+    sourceLink?: string;
     deploymentLink?: string;
     technologies: string[];
 }
@@ -26,14 +26,18 @@ export default function Project({ title, description, image, sourceLink, deploym
                     ))}
                 </div>
                 <div className="flex flex-wrap gap-2">
+                    {sourceLink &&
                     <a
                         href={sourceLink}
+                        target="_blank"
                         className="flex flex-row items-center justify-center px-4 py-2 bg-gray-800 rounded-md hover:bg-gray-700 text-gray-100"
                     >
                         View Project
                     </a>
+        }
                     {deploymentLink && <a
                         href={deploymentLink}
+                        target="_blank"
                         className="flex flex-row items-center justify-center px-4 py-2 bg-gray-200 rounded-md hover:bg-gray-300 text-gray-800"
                     >
                         View Deployment

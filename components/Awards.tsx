@@ -1,14 +1,26 @@
 import { BeakerIcon } from '@heroicons/react/24/solid'
+import { CardFooter, InfoCard, ScrollableRow } from './ScrollableUI';
 
 interface AwardEntry {
     event: string;
     description?: string;
     date: string;
     awardName?: string;
-
 };
 
 const AwardEntries: AwardEntry[] = [
+    {
+        event: "HACKATHON Code Quest UPB",
+        description: "Eldia Connect - Aplicatie VPN",
+        date: "Decembrie 2025",
+        awardName: "Locul I"
+    },
+    {
+        event: "Sesiunea stiintifica studenteasca",
+        description: "Platforma educationala de tip trivia pentru evaluarea si imbunatatirea cunostintelor de specialitate",
+        date: "Aprilie 2025",
+        awardName: "Mentiune I"
+    },
     {
         event: "Sesiunea stiintifica studenteasca",
         description: "Aplicatie pentru fidelizarea clientilor unei cafenele",
@@ -34,24 +46,23 @@ const AwardEntries: AwardEntry[] = [
         awardName: "Participare"
     },
 ];
-
 export default function Awards() {
     return (
-        <>
-            <div className="flex lg:flex-row flex-col">
-                {AwardEntries.map((entry, index) => (
-                    <div
-                        key={index}
-                        className="bg-gray-200 text-gray-700 text-sm rounded-md px-2 py-1 mr-0 lg:mr-2 mb-2 lg:mb-0 last:mb-0"
-                    >
-                        <h2 className="text-xl font-semibold mb-1">{entry.event}</h2>
-                        <h2 className="text-base font-semibold mb-0">{entry.description}</h2>
-                        <h2 className="text-base font-semibold mb-1">{entry.date}</h2>
-                        {entry.awardName && <h2 className="text-xl font-semibold">{entry.awardName}</h2>}
+        <ScrollableRow>
+            {AwardEntries.map((entry, index) => (
+                <InfoCard key={index}>
+                    <div>
+                        <h2 className="text-lg font-bold mb-2 leading-tight">{entry.event}</h2>
+                        <p className="text-sm font-medium mb-3 text-gray-600">{entry.description}</p>
                     </div>
-                ))}
-            </div>
-
-        </>
+                    <CardFooter>
+                        <p className="text-xs uppercase tracking-wide text-gray-500 mb-1">{entry.date}</p>
+                        {entry.awardName && (
+                            <h2 className="text-lg font-bold text-indigo-600">{entry.awardName}</h2>
+                        )}
+                    </CardFooter>
+                </InfoCard>
+            ))}
+        </ScrollableRow>
     )
 }
